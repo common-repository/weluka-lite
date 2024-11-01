@@ -1,0 +1,1672 @@
+# Copyright (C) 2015 Team Redux
+# This file is distributed under the GPL3+.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Weluka 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/ReduxFramework/ReduxFramework/issues\n"
+"POT-Creation-Date: 2016-02-26 16:44+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: weluka.me\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;"
+"esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-weluka-admin-settings.php:177
+msgid "Super Admin"
+msgstr ""
+
+#: class-weluka-admin-settings.php:178
+msgid "Administrator"
+msgstr ""
+
+#: class-weluka-admin-settings.php:179
+msgid "Editor"
+msgstr ""
+
+#: class-weluka-admin-settings.php:180 includes/builder-snippets.php:1133
+msgid "Author"
+msgstr ""
+
+#: class-weluka-admin-settings.php:181
+msgid "Contributor"
+msgstr ""
+
+#: class-weluka-admin-settings.php:182
+msgid "Subscriber"
+msgstr ""
+
+#: class-weluka-admin-settings.php:199 class-weluka-admin-settings.php:200
+#: class-weluka-admin-settings.php:344 includes/builder-snippets.php:1952
+msgid "Seo Setting"
+msgstr ""
+
+#: class-weluka-admin-settings.php:220
+msgid "option update success!!"
+msgstr ""
+
+#: class-weluka-admin-settings.php:229
+msgid "Weluka Option Setting"
+msgstr ""
+
+#: class-weluka-admin-settings.php:236
+#, php-format
+msgid ""
+"weluka Thank you for using. Please refer to a <a href=\"%s\" target=\"_blank\">Document</a> "
+"and a <a href=\"%s\" target=\"_blank\">Faq</a> about Help."
+msgstr ""
+
+#: class-weluka-admin-settings.php:241 class-weluka-builder.php:318
+msgid "Upgrade"
+msgstr ""
+
+#: class-weluka-admin-settings.php:242
+msgid ""
+"Currently, we use the weluka Lite Version. More advanced features, themes, please upgrade to "
+"use the support."
+msgstr ""
+
+#: class-weluka-admin-settings.php:254
+msgid "Builder enable post types : "
+msgstr ""
+
+#: class-weluka-admin-settings.php:271
+msgid "Please check the post type you want to use the page builder."
+msgstr ""
+
+#: class-weluka-admin-settings.php:276
+msgid "For builder data at the time of stop plug-in : "
+msgstr ""
+
+#: class-weluka-admin-settings.php:279
+msgid "To set the builder data to WordPress content."
+msgstr ""
+
+#: class-weluka-admin-settings.php:281
+msgid ""
+"Please check if you want to set the builder data at the time of stop plug-in WordPress usually "
+"content. Standard behavior does not set to WordPress normal content at the time of stop plug-"
+"in."
+msgstr ""
+
+#: class-weluka-admin-settings.php:288 class-weluka-admin-settings.php:448
+#: class-weluka-builder.php:315 class-weluka-builder.php:351 includes/builder-snippets.php:262
+#: includes/builder-snippets.php:317 includes/builder-snippets.php:412
+#: includes/builder-snippets.php:468 includes/builder-snippets.php:534
+#: includes/builder-snippets.php:586 includes/builder-snippets.php:715
+#: includes/builder-snippets.php:796 includes/builder-snippets.php:841
+#: includes/builder-snippets.php:903 includes/builder-snippets.php:948
+#: includes/builder-snippets.php:1015 includes/builder-snippets.php:1070
+#: includes/builder-snippets.php:1541 includes/builder-snippets.php:1630
+#: includes/builder-snippets.php:1675 includes/builder-snippets.php:1731
+#: includes/builder-snippets.php:1778 includes/builder-snippets.php:1812
+#: includes/builder-snippets.php:1928 includes/builder-snippets.php:1984
+msgid "Save"
+msgstr ""
+
+#: class-weluka-admin-settings.php:319 class-weluka-admin-settings.php:490
+#, php-format
+msgid "option registory error! (%s)"
+msgstr ""
+
+#: class-weluka-admin-settings.php:335
+msgid "seo setting update success!!"
+msgstr ""
+
+#: class-weluka-admin-settings.php:351
+msgid "Use? : "
+msgstr ""
+
+#: class-weluka-admin-settings.php:354 class-weluka-admin-settings.php:401
+#: class-weluka-admin-settings.php:413 class-weluka-admin-settings.php:425
+#: class-weluka-admin-settings.php:437
+msgid "Enabled"
+msgstr ""
+
+#: class-weluka-admin-settings.php:356 class-weluka-admin-settings.php:403
+#: class-weluka-admin-settings.php:415 class-weluka-admin-settings.php:427
+#: class-weluka-admin-settings.php:439
+msgid "Disabled"
+msgstr ""
+
+#: class-weluka-admin-settings.php:358
+msgid ""
+"Please then to [Enabled] If you want to replace the such as the title tag by using the Weluka "
+"this function."
+msgstr ""
+
+#: class-weluka-admin-settings.php:364
+msgid "Home Page Setting"
+msgstr ""
+
+#: class-weluka-admin-settings.php:368
+msgid "Home Title : "
+msgstr ""
+
+#: class-weluka-admin-settings.php:375
+msgid "Home Keywords : "
+msgstr ""
+
+#: class-weluka-admin-settings.php:378 includes/builder-snippets.php:1965
+msgid "Keyword1,keyword2, ..."
+msgstr ""
+
+#: class-weluka-admin-settings.php:379 includes/builder-snippets.php:1966
+msgid "Please enter a keyword in a comma-delimited."
+msgstr ""
+
+#: class-weluka-admin-settings.php:383
+msgid "Home Description : "
+msgstr ""
+
+#: class-weluka-admin-settings.php:394
+msgid "Meta Tag Setting"
+msgstr ""
+
+#: class-weluka-admin-settings.php:398
+msgid "WP Generator? : "
+msgstr ""
+
+#: class-weluka-admin-settings.php:405
+msgid "Please select the [enabled] If you want to add a WordPress Version meta tags."
+msgstr ""
+
+#: class-weluka-admin-settings.php:410
+msgid "EditURI? : "
+msgstr ""
+
+#: class-weluka-admin-settings.php:417
+msgid ""
+"Please select the [enabled] If you want to add a WordPress EditURI meta tags. There is no "
+"problem in the [disabled] If you want to post and edit only from WordPress administrator page."
+msgstr ""
+
+#: class-weluka-admin-settings.php:422
+msgid "Wlwmanifest? : "
+msgstr ""
+
+#: class-weluka-admin-settings.php:429
+msgid ""
+"If you want to add a Wlwmanifest meta tags, please choose [enabled]. There is no problem in "
+"the [disabled] If you do not want to post-edit from MSN Windows Live Writer."
+msgstr ""
+
+#: class-weluka-admin-settings.php:434
+msgid "Rss Feed? : "
+msgstr ""
+
+#: class-weluka-admin-settings.php:441
+msgid "Please select the [enabled] If you want to add the Rss Feed meta tags."
+msgstr ""
+
+#: class-weluka-admin-settings.php:577 class-weluka-builder.php:4545
+msgid "Please enter list name."
+msgstr ""
+
+#: class-weluka-admin-settings.php:595
+#, php-format
+msgid "list data registory error! (%s)"
+msgstr ""
+
+#: class-weluka-admin-settings.php:625
+#, php-format
+msgid "list data remove error! (%s)"
+msgstr ""
+
+#: class-weluka-admin-settings.php:651 class-weluka-builder.php:4543
+msgid "Please enter custom design name."
+msgstr ""
+
+#: class-weluka-admin-settings.php:670
+#, php-format
+msgid "custom design registory error! (%s)"
+msgstr ""
+
+#: class-weluka-admin-settings.php:700
+#, php-format
+msgid "custom design remove error! (%s)"
+msgstr ""
+
+#: class-weluka-builder.php:208
+msgid "Media Left"
+msgstr ""
+
+#: class-weluka-builder.php:212
+msgid "Media Right"
+msgstr ""
+
+#: class-weluka-builder.php:216
+msgid "Media Top"
+msgstr ""
+
+#: class-weluka-builder.php:220
+msgid "Media Middle"
+msgstr ""
+
+#: class-weluka-builder.php:224
+msgid "Media Bottom"
+msgstr ""
+
+#: class-weluka-builder.php:231
+msgid "Horizontal"
+msgstr ""
+
+#: class-weluka-builder.php:235
+msgid "Vertical"
+msgstr ""
+
+#: class-weluka-builder.php:239
+msgid "Hamburger"
+msgstr ""
+
+#: class-weluka-builder.php:284
+msgid "Weluka Builder"
+msgstr ""
+
+#: class-weluka-builder.php:308
+msgid "Title: "
+msgstr ""
+
+#: class-weluka-builder.php:314
+msgid "Publish"
+msgstr ""
+
+#: class-weluka-builder.php:316
+msgid "Preview"
+msgstr ""
+
+#: class-weluka-builder.php:317 class-weluka-builder.php:352 includes/builder-snippets.php:263
+#: includes/builder-snippets.php:318 includes/builder-snippets.php:413
+#: includes/builder-snippets.php:469 includes/builder-snippets.php:535
+#: includes/builder-snippets.php:587 includes/builder-snippets.php:716
+#: includes/builder-snippets.php:797 includes/builder-snippets.php:842
+#: includes/builder-snippets.php:904 includes/builder-snippets.php:949
+#: includes/builder-snippets.php:1016 includes/builder-snippets.php:1071
+#: includes/builder-snippets.php:1542 includes/builder-snippets.php:1631
+#: includes/builder-snippets.php:1676 includes/builder-snippets.php:1732
+#: includes/builder-snippets.php:1779 includes/builder-snippets.php:1813
+#: includes/builder-snippets.php:1929 includes/builder-snippets.php:1985
+msgid "Close"
+msgstr ""
+
+#: class-weluka-builder.php:336
+msgid "Code Editor"
+msgstr ""
+
+#: class-weluka-builder.php:1149
+msgid "Please input a alert content."
+msgstr ""
+
+#: class-weluka-builder.php:1184 class-weluka-builder.php:1198 class-weluka-builder.php:1202
+msgid "Please input a panel content."
+msgstr ""
+
+#: class-weluka-builder.php:1211
+msgid "Menu"
+msgstr ""
+
+#: class-weluka-builder.php:1219
+msgid "Archives"
+msgstr ""
+
+#: class-weluka-builder.php:1230 includes/builder-snippets.php:93
+msgid "Calendar"
+msgstr ""
+
+#: class-weluka-builder.php:1237 includes/builder-snippets.php:96
+#: includes/builder-snippets.php:1715
+msgid "Categories"
+msgstr ""
+
+#: class-weluka-builder.php:1247 includes/builder-snippets.php:99
+msgid "Meta"
+msgstr ""
+
+#: class-weluka-builder.php:1254 includes/builder-snippets.php:103
+msgid "Pages"
+msgstr ""
+
+#: class-weluka-builder.php:1263 includes/builder-snippets.php:107
+msgid "Recent Comments"
+msgstr ""
+
+#: class-weluka-builder.php:1271 includes/builder-snippets.php:111
+msgid "Recent Posts"
+msgstr ""
+
+#: class-weluka-builder.php:1290
+msgid "Rss Feed"
+msgstr ""
+
+#: class-weluka-builder.php:1303 includes/builder-snippets.php:118
+msgid "Search"
+msgstr ""
+
+#: class-weluka-builder.php:1310 includes/builder-snippets.php:121
+msgid "Tag Cloud"
+msgstr ""
+
+#: class-weluka-builder.php:1321
+msgid "<h3>Please input a title.</h3>"
+msgstr ""
+
+#: class-weluka-builder.php:1335
+msgid "Please input a text."
+msgstr ""
+
+#: class-weluka-builder.php:1369
+msgid "List Headline 1"
+msgstr ""
+
+#: class-weluka-builder.php:1372 class-weluka-builder.php:1391 class-weluka-builder.php:1410
+msgid ""
+"List content (News, announcements, guidance) Please enter an excerpt of such. Font size in the "
+"visual editor, set the style of color, etc., it is possible to be more attractive Mihae. In "
+"addition it is also possible to choose whether or not to display this item."
+msgstr ""
+
+#: class-weluka-builder.php:1375 class-weluka-builder.php:1394 class-weluka-builder.php:1413
+msgid "September 15, 2015"
+msgstr ""
+
+#: class-weluka-builder.php:1378 class-weluka-builder.php:1397 class-weluka-builder.php:1416
+msgid "News, Service, Product"
+msgstr ""
+
+#: class-weluka-builder.php:1388
+msgid "List Headline 2"
+msgstr ""
+
+#: class-weluka-builder.php:1407
+msgid "List Headline 3"
+msgstr ""
+
+#: class-weluka-builder.php:1452
+msgid "Please add a widget by drag and drop and make contents."
+msgstr ""
+
+#: class-weluka-builder.php:1456
+msgid "Sample Select"
+msgstr ""
+
+#: class-weluka-builder.php:1497 class-weluka-builder.php:4190
+msgid "Section"
+msgstr ""
+
+#: class-weluka-builder.php:1554 class-weluka-builder.php:4191
+msgid "Row"
+msgstr ""
+
+#: class-weluka-builder.php:1631 class-weluka-builder.php:4192
+msgid "Colum"
+msgstr ""
+
+#: class-weluka-builder.php:1688 class-weluka-builder.php:4189
+msgid "Edit"
+msgstr ""
+
+#: class-weluka-builder.php:1968
+msgid "Please setting movie content"
+msgstr ""
+
+#: class-weluka-builder.php:2231
+msgid "Please setting audio content"
+msgstr ""
+
+#: class-weluka-builder.php:2418
+msgid "Please setting slide content"
+msgstr ""
+
+#: class-weluka-builder.php:2810
+msgid "Please paste your code."
+msgstr ""
+
+#: class-weluka-builder.php:3389
+msgid "Please enter wordpress custom menu."
+msgstr ""
+
+#: class-weluka-builder.php:3663
+msgid "All Posts"
+msgstr ""
+
+#: class-weluka-builder.php:3874
+msgid "Featured"
+msgstr ""
+
+#: class-weluka-builder.php:4084
+msgid "Please enter wordpress RSS Feed."
+msgstr ""
+
+#: class-weluka-builder.php:4193
+msgid "Subrow"
+msgstr ""
+
+#: class-weluka-builder.php:4194
+msgid "Subcolum"
+msgstr ""
+
+#: class-weluka-builder.php:4502
+msgid "Move"
+msgstr ""
+
+#: class-weluka-builder.php:4503
+msgid "Setting"
+msgstr ""
+
+#: class-weluka-builder.php:4504
+msgid "Duplicate"
+msgstr ""
+
+#: class-weluka-builder.php:4505 class-weluka-builder.php:6312
+msgid "Remove"
+msgstr ""
+
+#: class-weluka-builder.php:4506 includes/builder-snippets.php:742
+#: includes/builder-snippets.php:823 includes/builder-snippets.php:868
+#: includes/builder-snippets.php:930 includes/builder-snippets.php:975
+#: includes/builder-snippets.php:1042 includes/builder-snippets.php:1102
+#: includes/builder-snippets.php:1129 includes/builder-snippets.php:1568
+#: includes/builder-snippets.php:1657 includes/builder-snippets.php:1702
+#: includes/builder-snippets.php:1955
+msgid "Title"
+msgstr ""
+
+#: class-weluka-builder.php:4507
+msgid "Description"
+msgstr ""
+
+#: class-weluka-builder.php:4508 includes/builder-snippets.php:224
+#: includes/builder-snippets.php:360
+msgid "Link"
+msgstr ""
+
+#: class-weluka-builder.php:4509 includes/builder-snippets.php:181
+#: includes/builder-snippets.php:228 includes/builder-snippets.php:364
+#: includes/builder-snippets.php:1174
+msgid "Url"
+msgstr ""
+
+#: class-weluka-builder.php:4510 includes/builder-snippets.php:241
+#: includes/builder-snippets.php:376
+msgid "A link is held by a new window or a tab."
+msgstr ""
+
+#: class-weluka-builder.php:4511 includes/builder-snippets.php:243
+#: includes/builder-snippets.php:378
+msgid "Select Link"
+msgstr ""
+
+#: class-weluka-builder.php:4512 class-weluka-builder.php:6062 class-weluka-builder.php:6206
+#: includes/builder-snippets.php:227 includes/builder-snippets.php:363
+#: includes/builder-snippets.php:637 includes/builder-snippets.php:1452
+#: includes/builder-snippets.php:1504
+msgid "None"
+msgstr ""
+
+#: class-weluka-builder.php:4513
+msgid "Enable Description."
+msgstr ""
+
+#: class-weluka-builder.php:4514
+msgid "Are you really sure you want to delete?"
+msgstr ""
+
+#: class-weluka-builder.php:4515
+msgid "Select Media"
+msgstr ""
+
+#: class-weluka-builder.php:4516
+msgid "Select"
+msgstr ""
+
+#: class-weluka-builder.php:4517
+msgid "Select Image"
+msgstr ""
+
+#: class-weluka-builder.php:4518
+msgid "Select Movie"
+msgstr ""
+
+#: class-weluka-builder.php:4519
+msgid "auto play"
+msgstr ""
+
+#: class-weluka-builder.php:4520
+msgid "Repeat to play"
+msgstr ""
+
+#: class-weluka-builder.php:4521
+msgid "Auto play and Repeat play setting is only one file in one page."
+msgstr ""
+
+#: class-weluka-builder.php:4522
+msgid "Registration panel is not."
+msgstr ""
+
+#: class-weluka-builder.php:4523
+msgid "Registration list is not."
+msgstr ""
+
+#: class-weluka-builder.php:4524
+msgid "Please enter image."
+msgstr ""
+
+#: class-weluka-builder.php:4525
+msgid "Please enter icon."
+msgstr ""
+
+#: class-weluka-builder.php:4526
+msgid "Please enter your url."
+msgstr ""
+
+#: class-weluka-builder.php:4527
+msgid "Please enter your address."
+msgstr ""
+
+#: class-weluka-builder.php:4528
+msgid "Please enter slide image."
+msgstr ""
+
+#: class-weluka-builder.php:4529
+msgid "Please select the SNS."
+msgstr ""
+
+#: class-weluka-builder.php:4530
+#, php-format
+msgid "Please enter sns url ({{%s}})."
+msgstr ""
+
+#: class-weluka-builder.php:4531
+msgid "Number of columns exceeds the maximum value."
+msgstr ""
+
+#: class-weluka-builder.php:4532
+msgid "Please enter embed code."
+msgstr ""
+
+#: class-weluka-builder.php:4533
+msgid "Please enter movie file or url."
+msgstr ""
+
+#: class-weluka-builder.php:4534
+msgid "Please enter audio file."
+msgstr ""
+
+#: class-weluka-builder.php:4535
+msgid "Please enter title."
+msgstr ""
+
+#: class-weluka-builder.php:4536
+msgid "Please enter content."
+msgstr ""
+
+#: class-weluka-builder.php:4537
+msgid "Please enter panel."
+msgstr ""
+
+#: class-weluka-builder.php:4538
+msgid "Please enter list."
+msgstr ""
+
+#: class-weluka-builder.php:4539
+msgid "Please enter menu."
+msgstr ""
+
+#: class-weluka-builder.php:4540
+msgid "Please select the edit data."
+msgstr ""
+
+#: class-weluka-builder.php:4541
+msgid "Please enter description."
+msgstr ""
+
+#: class-weluka-builder.php:4542
+msgid "Please check the list display item."
+msgstr ""
+
+#: class-weluka-builder.php:4544
+msgid "Please select custom design."
+msgstr ""
+
+#: class-weluka-builder.php:4546
+msgid "Please select list name."
+msgstr ""
+
+#: class-weluka-builder.php:4547
+msgid "Please enter the number slideshow speed is."
+msgstr ""
+
+#: class-weluka-builder.php:4548
+msgid "Please enter the number animation speed is."
+msgstr ""
+
+#: class-weluka-builder.php:4549
+msgid "Registered completed."
+msgstr ""
+
+#: class-weluka-builder.php:4550
+#, php-format
+msgid "Are you really sure you want to {{%s}} registory?."
+msgstr ""
+
+#: class-weluka-builder.php:4551
+#, php-format
+msgid "Are you really sure you want to {{%s}} delete?"
+msgstr ""
+
+#: class-weluka-builder.php:4552
+msgid "Please add the content."
+msgstr ""
+
+#: class-weluka-builder.php:4553
+msgid "Please select sample."
+msgstr ""
+
+#: class-weluka-builder.php:4958
+msgid "No posts."
+msgstr ""
+
+#: class-weluka-builder.php:5133
+msgid "Select Month"
+msgstr ""
+
+#: class-weluka-builder.php:5271
+msgid "Page none."
+msgstr ""
+
+#: class-weluka-builder.php:5361
+msgid "<span class=\"rssnone\">Feed none.</span>"
+msgstr ""
+
+#: class-weluka-builder.php:5440
+msgid "<span class=\"tagnone\">Tagcloud none.</span>"
+msgstr ""
+
+#: class-weluka-builder.php:5486 class-weluka-builder.php:5526 class-weluka-builder.php:5591
+#: class-weluka-builder.php:5662 class-weluka-builder.php:5718 class-weluka-builder.php:5813
+msgid "nonce error!"
+msgstr ""
+
+#: class-weluka-builder.php:5672 class-weluka-builder.php:5730
+msgid "model none!"
+msgstr ""
+
+#: class-weluka-builder.php:5825
+msgid "Failed to get the selected layout data."
+msgstr ""
+
+#: class-weluka-builder.php:5891
+msgid "Margin (px)"
+msgstr ""
+
+#: class-weluka-builder.php:5895 class-weluka-builder.php:5926
+msgid "Top"
+msgstr ""
+
+#: class-weluka-builder.php:5900 class-weluka-builder.php:5931
+msgid "Bottom"
+msgstr ""
+
+#: class-weluka-builder.php:5907 class-weluka-builder.php:5936 class-weluka-builder.php:6143
+#: includes/builder-snippets.php:1242 includes/builder-snippets.php:1291
+#: includes/builder-snippets.php:1318 includes/builder-snippets.php:1403
+#: includes/builder-snippets.php:1430 includes/builder-snippets.php:1482
+msgid "Left"
+msgstr ""
+
+#: class-weluka-builder.php:5912 class-weluka-builder.php:5941 class-weluka-builder.php:6149
+#: includes/builder-snippets.php:1244 includes/builder-snippets.php:1293
+#: includes/builder-snippets.php:1320 includes/builder-snippets.php:1405
+#: includes/builder-snippets.php:1432 includes/builder-snippets.php:1484
+msgid "Right"
+msgstr ""
+
+#: class-weluka-builder.php:5922
+msgid "Padding (px)"
+msgstr ""
+
+#: class-weluka-builder.php:5957
+msgid "Css Selectors"
+msgstr ""
+
+#: class-weluka-builder.php:5960
+msgid "Class"
+msgstr ""
+
+#: class-weluka-builder.php:5973
+msgid "Block Style"
+msgstr ""
+
+#: class-weluka-builder.php:5979
+msgid "Bg Color"
+msgstr ""
+
+#: class-weluka-builder.php:5988 includes/builder-snippets.php:687
+msgid "Text Color"
+msgstr ""
+
+#: class-weluka-builder.php:5997 includes/builder-snippets.php:216
+#: includes/builder-snippets.php:508 includes/builder-snippets.php:1456
+#: includes/builder-snippets.php:1508
+msgid "Shape"
+msgstr ""
+
+#: class-weluka-builder.php:5999 class-weluka-builder.php:6171 class-weluka-builder.php:6244
+#: includes/builder-snippets.php:1459 includes/builder-snippets.php:1511
+msgid "Square"
+msgstr ""
+
+#: class-weluka-builder.php:6000 class-weluka-builder.php:6174 class-weluka-builder.php:6243
+#: includes/builder-snippets.php:1458 includes/builder-snippets.php:1510
+msgid "Round"
+msgstr ""
+
+#: class-weluka-builder.php:6008 includes/builder-snippets.php:1254
+msgid "Border Size (px)"
+msgstr ""
+
+#: class-weluka-builder.php:6020 includes/builder-snippets.php:683
+#: includes/builder-snippets.php:1272
+msgid "Border Color"
+msgstr ""
+
+#: class-weluka-builder.php:6043 includes/builder-snippets.php:1261
+msgid "solid"
+msgstr ""
+
+#: class-weluka-builder.php:6044 includes/builder-snippets.php:1262
+msgid "dotted"
+msgstr ""
+
+#: class-weluka-builder.php:6045 includes/builder-snippets.php:1263
+msgid "dashed"
+msgstr ""
+
+#: class-weluka-builder.php:6046 includes/builder-snippets.php:1264
+msgid "double"
+msgstr ""
+
+#: class-weluka-builder.php:6047 includes/builder-snippets.php:1265
+msgid "groove"
+msgstr ""
+
+#: class-weluka-builder.php:6048 includes/builder-snippets.php:1266
+msgid "ridge"
+msgstr ""
+
+#: class-weluka-builder.php:6049 includes/builder-snippets.php:1267
+msgid "inset"
+msgstr ""
+
+#: class-weluka-builder.php:6050 includes/builder-snippets.php:1268
+msgid "outset"
+msgstr ""
+
+#: class-weluka-builder.php:6060
+msgid "Font"
+msgstr ""
+
+#: class-weluka-builder.php:6066
+msgid "Gothic"
+msgstr ""
+
+#: class-weluka-builder.php:6069
+msgid "Mincho"
+msgstr ""
+
+#: class-weluka-builder.php:6146 includes/builder-snippets.php:1243
+#: includes/builder-snippets.php:1292 includes/builder-snippets.php:1319
+#: includes/builder-snippets.php:1404 includes/builder-snippets.php:1431
+#: includes/builder-snippets.php:1483
+msgid "Center"
+msgstr ""
+
+#: class-weluka-builder.php:6177
+msgid "Circle"
+msgstr ""
+
+#: class-weluka-builder.php:6180 includes/builder-snippets.php:1139
+msgid "Thumbnail"
+msgstr ""
+
+#: class-weluka-builder.php:6197 class-weluka-builder.php:6282 includes/builder-snippets.php:1443
+#: includes/builder-snippets.php:1495
+msgid "White"
+msgstr ""
+
+#: class-weluka-builder.php:6198 includes/builder-snippets.php:1444
+#: includes/builder-snippets.php:1496
+msgid "Grey"
+msgstr ""
+
+#: class-weluka-builder.php:6199 class-weluka-builder.php:6283 includes/builder-snippets.php:1445
+#: includes/builder-snippets.php:1497
+msgid "Dark Grey"
+msgstr ""
+
+#: class-weluka-builder.php:6200 includes/builder-snippets.php:1446
+#: includes/builder-snippets.php:1498
+msgid "Black"
+msgstr ""
+
+#: class-weluka-builder.php:6201 class-weluka-builder.php:6285 includes/builder-snippets.php:1447
+#: includes/builder-snippets.php:1499
+msgid "Primary"
+msgstr ""
+
+#: class-weluka-builder.php:6202 class-weluka-builder.php:6286 includes/builder-snippets.php:499
+#: includes/builder-snippets.php:1448 includes/builder-snippets.php:1500
+msgid "Success"
+msgstr ""
+
+#: class-weluka-builder.php:6203 class-weluka-builder.php:6287 includes/builder-snippets.php:498
+#: includes/builder-snippets.php:1449 includes/builder-snippets.php:1501
+msgid "Info"
+msgstr ""
+
+#: class-weluka-builder.php:6204 class-weluka-builder.php:6288 includes/builder-snippets.php:500
+#: includes/builder-snippets.php:1450 includes/builder-snippets.php:1502
+msgid "Warning"
+msgstr ""
+
+#: class-weluka-builder.php:6205 class-weluka-builder.php:6290 includes/builder-snippets.php:501
+#: includes/builder-snippets.php:1451 includes/builder-snippets.php:1503
+msgid "Danger"
+msgstr ""
+
+#: class-weluka-builder.php:6223 includes/builder-snippets.php:1465
+#: includes/builder-snippets.php:1517
+msgid "X Small"
+msgstr ""
+
+#: class-weluka-builder.php:6224 includes/builder-snippets.php:1466
+#: includes/builder-snippets.php:1518
+msgid "Small"
+msgstr ""
+
+#: class-weluka-builder.php:6225 includes/builder-snippets.php:1467
+#: includes/builder-snippets.php:1519
+msgid "Medium"
+msgstr ""
+
+#: class-weluka-builder.php:6226 includes/builder-snippets.php:1468
+#: includes/builder-snippets.php:1520
+msgid "Large"
+msgstr ""
+
+#: class-weluka-builder.php:6281
+msgid "Default"
+msgstr ""
+
+#: class-weluka-builder.php:6284
+msgid "Inverse"
+msgstr ""
+
+#: class-weluka-builder.php:6289
+msgid "Magenta"
+msgstr ""
+
+#: class-weluka-builder.php:6303
+msgid "Custom Designs"
+msgstr ""
+
+#: class-weluka-builder.php:6309
+msgid "Custom Design Name"
+msgstr ""
+
+#: class-weluka-builder.php:6311
+msgid "Reg"
+msgstr ""
+
+#: class-weluka-builder.php:6355
+msgid "Please set the row column."
+msgstr ""
+
+#: class-weluka-builder.php:6380
+msgid "Please set the reference up to 12 column."
+msgstr ""
+
+#: class-weluka-builder.php:6421
+msgid "Fixed width container"
+msgstr ""
+
+#: class-weluka-builder.php:6422
+msgid "Full width container"
+msgstr ""
+
+#: class-weluka-builder.php:6427
+msgid ""
+"Please select whether to set full width to the content container width to a fixed length. The "
+"default is a fixed length."
+msgstr ""
+
+#: class-weluka-builder.php:6428
+msgid "If the content container width is set in the theme, it will according to the theme."
+msgstr ""
+
+#: class-weluka-builder.php:6469
+msgid "Meta bottom"
+msgstr ""
+
+#: class-weluka-builder.php:6470
+msgid "Content bottom"
+msgstr ""
+
+#: class-weluka-builder.php:6471
+msgid "Both"
+msgstr ""
+
+#: class-weluka-seo.php:105
+msgid "Search Result"
+msgstr ""
+
+#: class-weluka-seo.php:107
+#, php-format
+msgid "It is %s search results."
+msgstr ""
+
+#: class-weluka-seo.php:113
+msgid "Tagcloud list"
+msgstr ""
+
+#: class-weluka-seo.php:119
+#, php-format
+msgid "It is %s tagcloud list."
+msgstr ""
+
+#: class-weluka-seo.php:127
+msgid "Category list"
+msgstr ""
+
+#: class-weluka-seo.php:133
+#, php-format
+msgid "It is %s list."
+msgstr ""
+
+#: includes/builder-snippets.php:16
+msgid "Paragraph"
+msgstr ""
+
+#: includes/builder-snippets.php:22
+msgid "Image"
+msgstr ""
+
+#: includes/builder-snippets.php:36
+msgid "Link Button"
+msgstr ""
+
+#: includes/builder-snippets.php:61
+msgid "Horizontal Line"
+msgstr ""
+
+#: includes/builder-snippets.php:64
+msgid "Alert"
+msgstr ""
+
+#: includes/builder-snippets.php:67 includes/builder-snippets.php:568
+msgid "Embed Code"
+msgstr ""
+
+#: includes/builder-snippets.php:87
+msgid "Archive List"
+msgstr ""
+
+#: includes/builder-snippets.php:90
+msgid "Custom Menu"
+msgstr ""
+
+#: includes/builder-snippets.php:115
+msgid "RSS"
+msgstr ""
+
+#: includes/builder-snippets.php:143 includes/builder-snippets.php:1234
+msgid "Image Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:148 includes/builder-snippets.php:335
+#: includes/builder-snippets.php:430 includes/builder-snippets.php:486
+#: includes/builder-snippets.php:556 includes/builder-snippets.php:608
+#: includes/builder-snippets.php:733 includes/builder-snippets.php:814
+#: includes/builder-snippets.php:859 includes/builder-snippets.php:921
+#: includes/builder-snippets.php:966 includes/builder-snippets.php:1033
+#: includes/builder-snippets.php:1092 includes/builder-snippets.php:1559
+#: includes/builder-snippets.php:1648 includes/builder-snippets.php:1693
+#: includes/builder-snippets.php:1830
+msgid "General"
+msgstr ""
+
+#: includes/builder-snippets.php:149 includes/builder-snippets.php:280
+#: includes/builder-snippets.php:336 includes/builder-snippets.php:431
+#: includes/builder-snippets.php:487 includes/builder-snippets.php:557
+#: includes/builder-snippets.php:610 includes/builder-snippets.php:734
+#: includes/builder-snippets.php:815 includes/builder-snippets.php:860
+#: includes/builder-snippets.php:922 includes/builder-snippets.php:967
+#: includes/builder-snippets.php:1034 includes/builder-snippets.php:1094
+#: includes/builder-snippets.php:1560 includes/builder-snippets.php:1649
+#: includes/builder-snippets.php:1694 includes/builder-snippets.php:1749
+#: includes/builder-snippets.php:1796 includes/builder-snippets.php:1831
+msgid "Advanced"
+msgstr ""
+
+#: includes/builder-snippets.php:157
+msgid "Image Source"
+msgstr ""
+
+#: includes/builder-snippets.php:160
+msgid "Media Libraly"
+msgstr ""
+
+#: includes/builder-snippets.php:161
+msgid "External Url"
+msgstr ""
+
+#: includes/builder-snippets.php:164
+msgid "Lite Version is only Media Libraly."
+msgstr ""
+
+#: includes/builder-snippets.php:173
+msgid "Media"
+msgstr ""
+
+#: includes/builder-snippets.php:199
+msgid "Fit width"
+msgstr ""
+
+#: includes/builder-snippets.php:202
+msgid "I will full width display in the block."
+msgstr ""
+
+#: includes/builder-snippets.php:208 includes/builder-snippets.php:352
+#: includes/builder-snippets.php:1240 includes/builder-snippets.php:1289
+#: includes/builder-snippets.php:1316 includes/builder-snippets.php:1401
+#: includes/builder-snippets.php:1428 includes/builder-snippets.php:1480
+msgid "Alignment"
+msgstr ""
+
+#: includes/builder-snippets.php:230
+msgid "If the image is of an external site, ZOOM can not be used."
+msgstr ""
+
+#: includes/builder-snippets.php:237 includes/builder-snippets.php:372
+msgid "Link Url"
+msgstr ""
+
+#: includes/builder-snippets.php:275
+msgid "Text Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:294
+msgid "Text Shadow Style"
+msgstr ""
+
+#: includes/builder-snippets.php:297
+msgid "Basic"
+msgstr ""
+
+#: includes/builder-snippets.php:298
+msgid "Hard"
+msgstr ""
+
+#: includes/builder-snippets.php:299
+msgid "Vintage"
+msgstr ""
+
+#: includes/builder-snippets.php:303
+msgid "Shadow Color"
+msgstr ""
+
+#: includes/builder-snippets.php:330
+msgid "Button Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:344
+msgid "Button Text"
+msgstr ""
+
+#: includes/builder-snippets.php:384
+msgid "Button Style"
+msgstr ""
+
+#: includes/builder-snippets.php:397 includes/builder-snippets.php:1471
+#: includes/builder-snippets.php:1523
+msgid "A button block size."
+msgstr ""
+
+#: includes/builder-snippets.php:425
+msgid "Horizontal Line Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:440
+msgid "Line Width (px)"
+msgstr ""
+
+#: includes/builder-snippets.php:444
+msgid "Line Style"
+msgstr ""
+
+#: includes/builder-snippets.php:447
+msgid "Line Color"
+msgstr ""
+
+#: includes/builder-snippets.php:452
+msgid "Builder mode to enter a margin of 5px up and down."
+msgstr ""
+
+#: includes/builder-snippets.php:481
+msgid "Alert Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:495
+msgid "Alert Type"
+msgstr ""
+
+#: includes/builder-snippets.php:516
+msgid "Close Button"
+msgstr ""
+
+#: includes/builder-snippets.php:519
+msgid "To enable the close button."
+msgstr ""
+
+#: includes/builder-snippets.php:551
+msgid "Embed Code Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:563
+msgid ""
+"After saving of this setting, if the change on the builder is not reflected, make the builder "
+"[Save], please reload the page."
+msgstr ""
+
+#: includes/builder-snippets.php:570
+msgid "Please copy and paste the embed tag, such as an external API."
+msgstr ""
+
+#: includes/builder-snippets.php:603
+msgid "Wordpress Custom Menu Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:618
+msgid "Menu Title"
+msgstr ""
+
+#: includes/builder-snippets.php:621 includes/builder-snippets.php:745
+#: includes/builder-snippets.php:826 includes/builder-snippets.php:871
+#: includes/builder-snippets.php:933 includes/builder-snippets.php:978
+#: includes/builder-snippets.php:1045 includes/builder-snippets.php:1105
+#: includes/builder-snippets.php:1571 includes/builder-snippets.php:1660
+#: includes/builder-snippets.php:1705
+msgid "If not input, the title does not appear."
+msgstr ""
+
+#: includes/builder-snippets.php:627
+msgid "Select Menu"
+msgstr ""
+
+#: includes/builder-snippets.php:641
+msgid "After the custom menu registration Please reload the page builder."
+msgstr ""
+
+#: includes/builder-snippets.php:654
+msgid "Menu Layout"
+msgstr ""
+
+#: includes/builder-snippets.php:666
+msgid "Menu Content Fixed Width"
+msgstr ""
+
+#: includes/builder-snippets.php:668
+msgid ""
+"Please be content menu to select if you want to display a fixed-width in the case where the "
+"content container width in the section if you have selected a horizontal menu layout is set to "
+"full width. If the content container width is set in the theme, it will according to the theme."
+msgstr ""
+
+#: includes/builder-snippets.php:676
+msgid "Custom Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:679
+msgid "Base Color"
+msgstr ""
+
+#: includes/builder-snippets.php:692
+msgid "Hide Border?"
+msgstr ""
+
+#: includes/builder-snippets.php:697
+msgid ""
+"When you'd like to establish the color besides the color theme, please establish it more than "
+"[Custom Setting]."
+msgstr ""
+
+#: includes/builder-snippets.php:728
+msgid "Wordpress Archives Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:751
+msgid "Archive Type"
+msgstr ""
+
+#: includes/builder-snippets.php:754
+msgid "Yearly"
+msgstr ""
+
+#: includes/builder-snippets.php:755
+msgid "Monthly"
+msgstr ""
+
+#: includes/builder-snippets.php:756
+msgid "Weekly"
+msgstr ""
+
+#: includes/builder-snippets.php:757
+msgid "Daily"
+msgstr ""
+
+#: includes/builder-snippets.php:764 includes/builder-snippets.php:1585
+msgid "Show Limit"
+msgstr ""
+
+#: includes/builder-snippets.php:767 includes/builder-snippets.php:1588
+msgid "Please enter the number you want to display list."
+msgstr ""
+
+#: includes/builder-snippets.php:773 includes/builder-snippets.php:1603
+msgid "Other."
+msgstr ""
+
+#: includes/builder-snippets.php:776 includes/builder-snippets.php:879
+msgid "Show Dropdown."
+msgstr ""
+
+#: includes/builder-snippets.php:779 includes/builder-snippets.php:883
+msgid "Show Post Count."
+msgstr ""
+
+#: includes/builder-snippets.php:809
+msgid "Wordpress Calendar Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:854
+msgid "Wordpress Categories Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:887
+msgid "Show Hierarchical."
+msgstr ""
+
+#: includes/builder-snippets.php:916
+msgid "Wordpress Meta Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:961
+msgid "Wordpress Pages Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:984
+msgid "Sort by"
+msgstr ""
+
+#: includes/builder-snippets.php:987
+msgid "Menu Order"
+msgstr ""
+
+#: includes/builder-snippets.php:988
+msgid "Page Id"
+msgstr ""
+
+#: includes/builder-snippets.php:989
+msgid "Page Title"
+msgstr ""
+
+#: includes/builder-snippets.php:996
+msgid "Exclude Page Id"
+msgstr ""
+
+#: includes/builder-snippets.php:999
+msgid "Please enter the page ID that you do not want to display a comma-separated."
+msgstr ""
+
+#: includes/builder-snippets.php:1028
+msgid "Wordpress Recent Comments Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1051
+msgid "Show Comment Count"
+msgstr ""
+
+#: includes/builder-snippets.php:1054
+msgid "Default 5 comments."
+msgstr ""
+
+#: includes/builder-snippets.php:1087
+msgid "Wordpress Recent Posts Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1111
+msgid "Include Category"
+msgstr ""
+
+#: includes/builder-snippets.php:1120
+msgid "If the check is not, all categories are eligible."
+msgstr ""
+
+#: includes/builder-snippets.php:1126
+msgid "Show Post Item"
+msgstr ""
+
+#: includes/builder-snippets.php:1131
+msgid "Date"
+msgstr ""
+
+#: includes/builder-snippets.php:1135
+msgid "Category"
+msgstr ""
+
+#: includes/builder-snippets.php:1137
+msgid "Comment Count"
+msgstr ""
+
+#: includes/builder-snippets.php:1141
+msgid "Excerpt"
+msgstr ""
+
+#: includes/builder-snippets.php:1143
+msgid "Tagcloud"
+msgstr ""
+
+#: includes/builder-snippets.php:1148
+msgid "Tagcloud position"
+msgstr ""
+
+#: includes/builder-snippets.php:1155
+msgid "Excerpt String Number"
+msgstr ""
+
+#: includes/builder-snippets.php:1163
+msgid "More Link Text"
+msgstr ""
+
+#: includes/builder-snippets.php:1166
+msgid "Please enter if you want to display a link to see more for each article."
+msgstr ""
+
+#: includes/builder-snippets.php:1172
+msgid "All Link"
+msgstr ""
+
+#: includes/builder-snippets.php:1177
+msgid "All Link Text"
+msgstr ""
+
+#: includes/builder-snippets.php:1185
+msgid "Number of posts"
+msgstr ""
+
+#: includes/builder-snippets.php:1193 includes/builder-snippets.php:1594
+msgid "Height (px)"
+msgstr ""
+
+#: includes/builder-snippets.php:1196 includes/builder-snippets.php:1597
+msgid "Scroll displayed if it exceeds the specified height."
+msgstr ""
+
+#: includes/builder-snippets.php:1217
+msgid "Row spacing (px)"
+msgstr ""
+
+#: includes/builder-snippets.php:1221
+msgid "Odd Background Color"
+msgstr ""
+
+#: includes/builder-snippets.php:1226
+msgid "Even Background Color"
+msgstr ""
+
+#: includes/builder-snippets.php:1258
+msgid "Border Style"
+msgstr ""
+
+#: includes/builder-snippets.php:1280
+msgid "Post Title Design Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1302 includes/builder-snippets.php:1343
+#: includes/builder-snippets.php:1365 includes/builder-snippets.php:1387
+#: includes/builder-snippets.php:1414
+msgid "Font Size (px)"
+msgstr ""
+
+#: includes/builder-snippets.php:1306
+msgid "Title Color"
+msgstr ""
+
+#: includes/builder-snippets.php:1313
+msgid "Meta Common Design Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1327
+msgid "Date Design Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1333
+msgid "date format (Ex Y-m-d h:i)"
+msgstr ""
+
+#: includes/builder-snippets.php:1335
+msgid "Please refer to the PHP date function for date format."
+msgstr ""
+
+#: includes/builder-snippets.php:1347 includes/builder-snippets.php:1369
+#: includes/builder-snippets.php:1391
+msgid "Color"
+msgstr ""
+
+#: includes/builder-snippets.php:1354
+msgid "Category Design Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1376
+msgid "Author Design Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1398
+msgid "Excerpt Design Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1418
+msgid "Content Color"
+msgstr ""
+
+#: includes/builder-snippets.php:1425
+msgid "More Button Design Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1441 includes/builder-snippets.php:1493
+msgid "Button Color"
+msgstr ""
+
+#: includes/builder-snippets.php:1463 includes/builder-snippets.php:1515
+msgid "Button Size"
+msgstr ""
+
+#: includes/builder-snippets.php:1477
+msgid "All Button Design Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1554
+msgid "Wordpress RSS Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1577
+msgid "RSS Feed Url"
+msgstr ""
+
+#: includes/builder-snippets.php:1606
+msgid "Show Excerpt."
+msgstr ""
+
+#: includes/builder-snippets.php:1609
+msgid "Show Author."
+msgstr ""
+
+#: includes/builder-snippets.php:1613
+msgid "Show Date."
+msgstr ""
+
+#: includes/builder-snippets.php:1643
+msgid "Wordpress Search Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1688
+msgid "Wordpress Tag Cloud Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1711
+msgid "Taxonomy Type"
+msgstr ""
+
+#: includes/builder-snippets.php:1714
+msgid "Tags"
+msgstr ""
+
+#: includes/builder-snippets.php:1744
+msgid "Colum Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1757
+msgid "Column"
+msgstr ""
+
+#: includes/builder-snippets.php:1764
+msgid "Please adjust so that it is up to 12 columns in a row."
+msgstr ""
+
+#: includes/builder-snippets.php:1791
+msgid "Row Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1825
+msgid "Section Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1840
+msgid "BG Image"
+msgstr ""
+
+#: includes/builder-snippets.php:1845
+msgid "Size"
+msgstr ""
+
+#: includes/builder-snippets.php:1847
+msgid "Size Input"
+msgstr ""
+
+#: includes/builder-snippets.php:1848
+msgid "Cover"
+msgstr ""
+
+#: includes/builder-snippets.php:1849
+msgid "Contain"
+msgstr ""
+
+#: includes/builder-snippets.php:1852
+msgid "If you specify the [Size Input], Please enter width and height. (Example) 50% 50%"
+msgstr ""
+
+#: includes/builder-snippets.php:1859
+msgid "Position"
+msgstr ""
+
+#: includes/builder-snippets.php:1863
+msgid "(Example) 50% 50%"
+msgstr ""
+
+#: includes/builder-snippets.php:1870 includes/builder-snippets.php:1873
+msgid "Repeat"
+msgstr ""
+
+#: includes/builder-snippets.php:1872
+msgid "No Repeat"
+msgstr ""
+
+#: includes/builder-snippets.php:1874
+msgid "Repeat X"
+msgstr ""
+
+#: includes/builder-snippets.php:1875
+msgid "Repeat Y"
+msgstr ""
+
+#: includes/builder-snippets.php:1881
+msgid "Attachment"
+msgstr ""
+
+#: includes/builder-snippets.php:1883
+msgid "Scroll"
+msgstr ""
+
+#: includes/builder-snippets.php:1884
+msgid "Fixed"
+msgstr ""
+
+#: includes/builder-snippets.php:1893
+msgid "BG Color"
+msgstr ""
+
+#: includes/builder-snippets.php:1902
+msgid "Font Color"
+msgstr ""
+
+#: includes/builder-snippets.php:1911
+msgid "Anchor"
+msgstr ""
+
+#: includes/builder-snippets.php:1945
+msgid "Page Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1963
+msgid "Keywords"
+msgstr ""
+
+#: includes/builder-snippets.php:1972
+msgid "description"
+msgstr ""
+
+#: weluka.php:86
+#, php-format
+msgid "%s requires WordPress version %s or later."
+msgstr ""
+
+#: weluka.php:788
+msgid "Did you save?. Are you sure you want to leave this page?"
+msgstr ""
+
+#: weluka.php:789
+msgid "But do contents preserve a blank (null)?"
+msgstr ""
+
+#: weluka.php:1310
+#, php-format
+msgid "Draft Post #%d"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "weluka is a drag and drop content builder that runs on a variety of themes.(Lite Version)"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "weluka team"
+msgstr ""

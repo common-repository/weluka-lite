@@ -1,0 +1,3064 @@
+# Copyright (C) 2015 Team Redux
+# This file is distributed under the GPL3+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Weluka Lite 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/ReduxFramework/ReduxFramework/"
+"issues\n"
+"POT-Creation-Date: 2016-02-26 16:45+0900\n"
+"PO-Revision-Date: 2016-02-26 16:51+0900\n"
+"Last-Translator: \n"
+"Language-Team: weluka.me\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-weluka-admin-settings.php:177
+msgid "Super Admin"
+msgstr "ネットワーク管理者"
+
+#: class-weluka-admin-settings.php:178
+msgid "Administrator"
+msgstr "管理者"
+
+#: class-weluka-admin-settings.php:179
+msgid "Editor"
+msgstr "編集者"
+
+#: class-weluka-admin-settings.php:180 includes/builder-snippets.php:1133
+msgid "Author"
+msgstr "投稿者"
+
+#: class-weluka-admin-settings.php:181
+msgid "Contributor"
+msgstr "寄稿者"
+
+#: class-weluka-admin-settings.php:182
+msgid "Subscriber"
+msgstr "購読者"
+
+#: class-weluka-admin-settings.php:199 class-weluka-admin-settings.php:200
+#: class-weluka-admin-settings.php:344 includes/builder-snippets.php:1952
+msgid "Seo Setting"
+msgstr "SEO設定"
+
+#: class-weluka-admin-settings.php:220
+msgid "option update success!!"
+msgstr "更新を完了しました。"
+
+#: class-weluka-admin-settings.php:229
+msgid "Weluka Option Setting"
+msgstr "Weluka オプション設定"
+
+#: class-weluka-admin-settings.php:236
+#, php-format
+msgid ""
+"weluka Thank you for using. Please refer to a <a href=\"%s\" target=\"_blank"
+"\">Document</a> and a <a href=\"%s\" target=\"_blank\">Faq</a> about Help."
+msgstr ""
+"welukaをご利用いただきありがとうございます。 ヘルプについては<a href=\"%s\" "
+"target=\"_blank\">「ドキュメント」</a>、<a href=\"%s\" target=\"_blank"
+"\">「Faq」</a>をご参照ください。"
+
+#: class-weluka-admin-settings.php:241 class-weluka-builder.php:318
+msgid "Upgrade"
+msgstr "アップグレード"
+
+#: class-weluka-admin-settings.php:242
+msgid ""
+"Currently, we use the weluka Lite Version. More advanced features, themes, "
+"please upgrade to use the support."
+msgstr ""
+"現在、weluka Lite Versionを使用しています。もっと高度な機能、テーマ、サポート"
+"を利用するにはアップグレードしてください。"
+
+#: class-weluka-admin-settings.php:254
+msgid "Builder enable post types : "
+msgstr "ビルダー有効 投稿タイプ : "
+
+#: class-weluka-admin-settings.php:271
+msgid "Please check the post type you want to use the page builder."
+msgstr "Welukaページビルダーを有効にしたい投稿タイプをチェックしてください。"
+
+#: class-weluka-admin-settings.php:276
+msgid "For builder data at the time of stop plug-in : "
+msgstr "プラグイン停止時のビルダーデータについて : "
+
+#: class-weluka-admin-settings.php:279
+msgid "To set the builder data to WordPress content."
+msgstr "WordPressコンテンツへビルダーデータを設定する"
+
+#: class-weluka-admin-settings.php:281
+msgid ""
+"Please check if you want to set the builder data at the time of stop plug-in "
+"WordPress usually content. Standard behavior does not set to WordPress "
+"normal content at the time of stop plug-in."
+msgstr ""
+"プラグイン停止時にビルダーデータをWordPress通常コンテンツに設定する場合は"
+"チェックしてください。標準動作はプラグイン停止時にWordPress通常コンテンツへ設"
+"定しません。"
+
+#: class-weluka-admin-settings.php:288 class-weluka-admin-settings.php:448
+#: class-weluka-builder.php:315 class-weluka-builder.php:351
+#: includes/builder-snippets.php:262 includes/builder-snippets.php:317
+#: includes/builder-snippets.php:412 includes/builder-snippets.php:468
+#: includes/builder-snippets.php:534 includes/builder-snippets.php:586
+#: includes/builder-snippets.php:715 includes/builder-snippets.php:796
+#: includes/builder-snippets.php:841 includes/builder-snippets.php:903
+#: includes/builder-snippets.php:948 includes/builder-snippets.php:1015
+#: includes/builder-snippets.php:1070 includes/builder-snippets.php:1541
+#: includes/builder-snippets.php:1630 includes/builder-snippets.php:1675
+#: includes/builder-snippets.php:1731 includes/builder-snippets.php:1778
+#: includes/builder-snippets.php:1812 includes/builder-snippets.php:1928
+#: includes/builder-snippets.php:1984
+msgid "Save"
+msgstr "保存"
+
+#: class-weluka-admin-settings.php:319 class-weluka-admin-settings.php:490
+#, php-format
+msgid "option registory error! (%s)"
+msgstr "オプション登録エラー！（%s）"
+
+#: class-weluka-admin-settings.php:335
+msgid "seo setting update success!!"
+msgstr "更新を完了しました。"
+
+#: class-weluka-admin-settings.php:351
+msgid "Use? : "
+msgstr ""
+
+#: class-weluka-admin-settings.php:354 class-weluka-admin-settings.php:401
+#: class-weluka-admin-settings.php:413 class-weluka-admin-settings.php:425
+#: class-weluka-admin-settings.php:437
+msgid "Enabled"
+msgstr "有効"
+
+#: class-weluka-admin-settings.php:356 class-weluka-admin-settings.php:403
+#: class-weluka-admin-settings.php:415 class-weluka-admin-settings.php:427
+#: class-weluka-admin-settings.php:439
+msgid "Disabled"
+msgstr "無効"
+
+#: class-weluka-admin-settings.php:358
+msgid ""
+"Please then to [Enabled] If you want to replace the such as the title tag by "
+"using the Weluka this function."
+msgstr ""
+"Weluka本機能を利用してタイトルタグなどを置き換える場合は[有効]にしてくださ"
+"い。"
+
+#: class-weluka-admin-settings.php:364
+msgid "Home Page Setting"
+msgstr "ホームページ設定"
+
+#: class-weluka-admin-settings.php:368
+msgid "Home Title : "
+msgstr "ホームタイトル : "
+
+#: class-weluka-admin-settings.php:375
+msgid "Home Keywords : "
+msgstr "ホームキーワード : "
+
+#: class-weluka-admin-settings.php:378 includes/builder-snippets.php:1965
+msgid "Keyword1,keyword2, ..."
+msgstr ""
+
+#: class-weluka-admin-settings.php:379 includes/builder-snippets.php:1966
+msgid "Please enter a keyword in a comma-delimited."
+msgstr "キーワードをカンマ区切りで入力してください。"
+
+#: class-weluka-admin-settings.php:383
+msgid "Home Description : "
+msgstr "ホーム説明 : "
+
+#: class-weluka-admin-settings.php:394
+msgid "Meta Tag Setting"
+msgstr ""
+
+#: class-weluka-admin-settings.php:398
+msgid "WP Generator? : "
+msgstr ""
+
+#: class-weluka-admin-settings.php:405
+msgid ""
+"Please select the [enabled] If you want to add a WordPress Version meta tags."
+msgstr "WordPress Version メタタグを追加する場合は[有効]を選択してください。"
+
+#: class-weluka-admin-settings.php:410
+msgid "EditURI? : "
+msgstr ""
+
+#: class-weluka-admin-settings.php:417
+msgid ""
+"Please select the [enabled] If you want to add a WordPress EditURI meta "
+"tags. There is no problem in the [disabled] If you want to post and edit "
+"only from WordPress administrator page."
+msgstr ""
+"WordPress EditURI メタタグを追加する場合は[有効]を選択してください。WordPress"
+"管理者ページからのみ投稿・編集する場合は[無効]にして問題ありません。"
+
+#: class-weluka-admin-settings.php:422
+msgid "Wlwmanifest? : "
+msgstr ""
+
+#: class-weluka-admin-settings.php:429
+msgid ""
+"If you want to add a Wlwmanifest meta tags, please choose [enabled]. There "
+"is no problem in the [disabled] If you do not want to post-edit from MSN "
+"Windows Live Writer."
+msgstr ""
+"Wlwmanifest メタタグを追加する場合は[有効]を選択してください。MSN Windows "
+"Live Writerから投稿・編集しない場合は[無効]にして問題ありません。"
+
+#: class-weluka-admin-settings.php:434
+msgid "Rss Feed? : "
+msgstr ""
+
+#: class-weluka-admin-settings.php:441
+msgid "Please select the [enabled] If you want to add the Rss Feed meta tags."
+msgstr "RSSフィード メタタグを追加する場合は[有効]を選択してください。"
+
+#: class-weluka-admin-settings.php:577 class-weluka-builder.php:4545
+msgid "Please enter list name."
+msgstr "リスト名を入力してください。"
+
+#: class-weluka-admin-settings.php:595
+#, php-format
+msgid "list data registory error! (%s)"
+msgstr "リストデータ登録エラー! (%s)"
+
+#: class-weluka-admin-settings.php:625
+#, php-format
+msgid "list data remove error! (%s)"
+msgstr "リストデータ削除エラー! (%s)"
+
+#: class-weluka-admin-settings.php:651 class-weluka-builder.php:4543
+msgid "Please enter custom design name."
+msgstr "カスタムデザイン名を入力してください。"
+
+#: class-weluka-admin-settings.php:670
+#, php-format
+msgid "custom design registory error! (%s)"
+msgstr "カスタムデザイン登録エラー! (%s)"
+
+#: class-weluka-admin-settings.php:700
+#, php-format
+msgid "custom design remove error! (%s)"
+msgstr "カスタムデザイン削除エラー! (%s)"
+
+#: class-weluka-builder.php:208
+msgid "Media Left"
+msgstr ""
+
+#: class-weluka-builder.php:212
+msgid "Media Right"
+msgstr ""
+
+#: class-weluka-builder.php:216
+msgid "Media Top"
+msgstr ""
+
+#: class-weluka-builder.php:220
+msgid "Media Middle"
+msgstr ""
+
+#: class-weluka-builder.php:224
+msgid "Media Bottom"
+msgstr ""
+
+#: class-weluka-builder.php:231
+msgid "Horizontal"
+msgstr "横"
+
+#: class-weluka-builder.php:235
+msgid "Vertical"
+msgstr "縦"
+
+#: class-weluka-builder.php:239
+msgid "Hamburger"
+msgstr "ハンバーガー"
+
+#: class-weluka-builder.php:284
+msgid "Weluka Builder"
+msgstr "Weluka ページビルダー"
+
+#: class-weluka-builder.php:308
+msgid "Title: "
+msgstr "タイトル："
+
+#: class-weluka-builder.php:314
+msgid "Publish"
+msgstr "公開"
+
+#: class-weluka-builder.php:316
+msgid "Preview"
+msgstr "プレビュー"
+
+#: class-weluka-builder.php:317 class-weluka-builder.php:352
+#: includes/builder-snippets.php:263 includes/builder-snippets.php:318
+#: includes/builder-snippets.php:413 includes/builder-snippets.php:469
+#: includes/builder-snippets.php:535 includes/builder-snippets.php:587
+#: includes/builder-snippets.php:716 includes/builder-snippets.php:797
+#: includes/builder-snippets.php:842 includes/builder-snippets.php:904
+#: includes/builder-snippets.php:949 includes/builder-snippets.php:1016
+#: includes/builder-snippets.php:1071 includes/builder-snippets.php:1542
+#: includes/builder-snippets.php:1631 includes/builder-snippets.php:1676
+#: includes/builder-snippets.php:1732 includes/builder-snippets.php:1779
+#: includes/builder-snippets.php:1813 includes/builder-snippets.php:1929
+#: includes/builder-snippets.php:1985
+msgid "Close"
+msgstr "閉じる"
+
+#: class-weluka-builder.php:336
+msgid "Code Editor"
+msgstr ""
+
+#: class-weluka-builder.php:1149
+msgid "Please input a alert content."
+msgstr "内容を入力してください。"
+
+#: class-weluka-builder.php:1184 class-weluka-builder.php:1198
+#: class-weluka-builder.php:1202
+msgid "Please input a panel content."
+msgstr "内容を入力してください。"
+
+#: class-weluka-builder.php:1211
+msgid "Menu"
+msgstr "メニュー"
+
+#: class-weluka-builder.php:1219
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: class-weluka-builder.php:1230 includes/builder-snippets.php:93
+msgid "Calendar"
+msgstr "カレンダー"
+
+#: class-weluka-builder.php:1237 includes/builder-snippets.php:96
+#: includes/builder-snippets.php:1715
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: class-weluka-builder.php:1247 includes/builder-snippets.php:99
+msgid "Meta"
+msgstr "メタ"
+
+#: class-weluka-builder.php:1254 includes/builder-snippets.php:103
+msgid "Pages"
+msgstr "ページ"
+
+#: class-weluka-builder.php:1263 includes/builder-snippets.php:107
+msgid "Recent Comments"
+msgstr "最新コメント"
+
+#: class-weluka-builder.php:1271 includes/builder-snippets.php:111
+msgid "Recent Posts"
+msgstr "最新記事"
+
+#: class-weluka-builder.php:1290
+msgid "Rss Feed"
+msgstr "RSSフィード"
+
+#: class-weluka-builder.php:1303 includes/builder-snippets.php:118
+msgid "Search"
+msgstr "検索"
+
+#: class-weluka-builder.php:1310 includes/builder-snippets.php:121
+msgid "Tag Cloud"
+msgstr "タグクラウド"
+
+#: class-weluka-builder.php:1321
+msgid "<h3>Please input a title.</h3>"
+msgstr "<h3>タイトルを入力してください。</h3>"
+
+#: class-weluka-builder.php:1335
+msgid "Please input a text."
+msgstr "テキストを入力してください。"
+
+#: class-weluka-builder.php:1369
+msgid "List Headline 1"
+msgstr "リストタイトル１"
+
+#: class-weluka-builder.php:1372 class-weluka-builder.php:1391
+#: class-weluka-builder.php:1410
+msgid ""
+"List content (News, announcements, guidance) Please enter an excerpt of "
+"such. Font size in the visual editor, set the style of color, etc., it is "
+"possible to be more attractive Mihae. In addition it is also possible to "
+"choose whether or not to display this item."
+msgstr ""
+"リスト内容（お知らせ、告知、案内）などの抜粋を入力してください。ヴィジュアル"
+"エディタでフォントサイズ、色等のスタイルを設定し、より魅力的な見映えにするこ"
+"とが可能です。また本項目を表示するかしないか選択することも可能です。"
+
+#: class-weluka-builder.php:1375 class-weluka-builder.php:1394
+#: class-weluka-builder.php:1413
+msgid "September 15, 2015"
+msgstr ""
+
+#: class-weluka-builder.php:1378 class-weluka-builder.php:1397
+#: class-weluka-builder.php:1416
+msgid "News, Service, Product"
+msgstr ""
+
+#: class-weluka-builder.php:1388
+msgid "List Headline 2"
+msgstr "リストタイトル２"
+
+#: class-weluka-builder.php:1407
+msgid "List Headline 3"
+msgstr "リストタイトル３"
+
+#: class-weluka-builder.php:1452
+msgid "Please add a widget by drag and drop and make contents."
+msgstr "ウィジェットをドラッグ＆ドロップで追加しコンテンツを作成してください。"
+
+#: class-weluka-builder.php:1456
+msgid "Sample Select"
+msgstr ""
+
+#: class-weluka-builder.php:1497 class-weluka-builder.php:4190
+msgid "Section"
+msgstr ""
+
+#: class-weluka-builder.php:1554 class-weluka-builder.php:4191
+msgid "Row"
+msgstr ""
+
+#: class-weluka-builder.php:1631 class-weluka-builder.php:4192
+msgid "Colum"
+msgstr ""
+
+#: class-weluka-builder.php:1688 class-weluka-builder.php:4189
+msgid "Edit"
+msgstr "編集"
+
+#: class-weluka-builder.php:1968
+msgid "Please setting movie content"
+msgstr "動画を設定してください。"
+
+#: class-weluka-builder.php:2231
+msgid "Please setting audio content"
+msgstr "Audioを設定してください。"
+
+#: class-weluka-builder.php:2418
+msgid "Please setting slide content"
+msgstr "スライドを設定してください。"
+
+#: class-weluka-builder.php:2810
+msgid "Please paste your code."
+msgstr "埋め込みコードを貼り付けてください。"
+
+#: class-weluka-builder.php:3389
+msgid "Please enter wordpress custom menu."
+msgstr "Wordpress カスタムメニューを設定してください。"
+
+#: class-weluka-builder.php:3663
+msgid "All Posts"
+msgstr ""
+
+#: class-weluka-builder.php:3874
+msgid "Featured"
+msgstr ""
+
+#: class-weluka-builder.php:4084
+msgid "Please enter wordpress RSS Feed."
+msgstr "RSS Feed URLを入力してください。"
+
+#: class-weluka-builder.php:4193
+msgid "Subrow"
+msgstr ""
+
+#: class-weluka-builder.php:4194
+msgid "Subcolum"
+msgstr ""
+
+#: class-weluka-builder.php:4502
+msgid "Move"
+msgstr "移動"
+
+#: class-weluka-builder.php:4503
+msgid "Setting"
+msgstr "設定"
+
+#: class-weluka-builder.php:4504
+msgid "Duplicate"
+msgstr "コピー"
+
+#: class-weluka-builder.php:4505 class-weluka-builder.php:6312
+msgid "Remove"
+msgstr "削除"
+
+#: class-weluka-builder.php:4506 includes/builder-snippets.php:742
+#: includes/builder-snippets.php:823 includes/builder-snippets.php:868
+#: includes/builder-snippets.php:930 includes/builder-snippets.php:975
+#: includes/builder-snippets.php:1042 includes/builder-snippets.php:1102
+#: includes/builder-snippets.php:1129 includes/builder-snippets.php:1568
+#: includes/builder-snippets.php:1657 includes/builder-snippets.php:1702
+#: includes/builder-snippets.php:1955
+msgid "Title"
+msgstr "タイトル"
+
+#: class-weluka-builder.php:4507
+msgid "Description"
+msgstr "説明"
+
+#: class-weluka-builder.php:4508 includes/builder-snippets.php:224
+#: includes/builder-snippets.php:360
+msgid "Link"
+msgstr "リンク"
+
+#: class-weluka-builder.php:4509 includes/builder-snippets.php:181
+#: includes/builder-snippets.php:228 includes/builder-snippets.php:364
+#: includes/builder-snippets.php:1174
+msgid "Url"
+msgstr ""
+
+#: class-weluka-builder.php:4510 includes/builder-snippets.php:241
+#: includes/builder-snippets.php:376
+msgid "A link is held by a new window or a tab."
+msgstr "リンクを新しいウインドウまたは新しいタブで開きます."
+
+#: class-weluka-builder.php:4511 includes/builder-snippets.php:243
+#: includes/builder-snippets.php:378
+msgid "Select Link"
+msgstr "リンク選択"
+
+#: class-weluka-builder.php:4512 class-weluka-builder.php:6062
+#: class-weluka-builder.php:6206 includes/builder-snippets.php:227
+#: includes/builder-snippets.php:363 includes/builder-snippets.php:637
+#: includes/builder-snippets.php:1452 includes/builder-snippets.php:1504
+msgid "None"
+msgstr ""
+
+#: class-weluka-builder.php:4513
+msgid "Enable Description."
+msgstr "説明を有効化"
+
+#: class-weluka-builder.php:4514
+msgid "Are you really sure you want to delete?"
+msgstr "本当に削除してよろしいですか？"
+
+#: class-weluka-builder.php:4515
+msgid "Select Media"
+msgstr "メディア選択"
+
+#: class-weluka-builder.php:4516
+msgid "Select"
+msgstr "選択"
+
+#: class-weluka-builder.php:4517
+msgid "Select Image"
+msgstr "画像選択"
+
+#: class-weluka-builder.php:4518
+msgid "Select Movie"
+msgstr ""
+
+#: class-weluka-builder.php:4519
+msgid "auto play"
+msgstr "自動再生"
+
+#: class-weluka-builder.php:4520
+msgid "Repeat to play"
+msgstr "繰返再生"
+
+#: class-weluka-builder.php:4521
+msgid "Auto play and Repeat play setting is only one file in one page."
+msgstr "自動再生と繰り返し再生設定は1ページ内で1ファイルのみとなります。"
+
+#: class-weluka-builder.php:4522
+msgid "Registration panel is not."
+msgstr "パネルは登録されてません。"
+
+#: class-weluka-builder.php:4523
+msgid "Registration list is not."
+msgstr "リストデータは登録されていません。"
+
+#: class-weluka-builder.php:4524
+msgid "Please enter image."
+msgstr "画像を選択してください。"
+
+#: class-weluka-builder.php:4525
+msgid "Please enter icon."
+msgstr "アイコンを選択してください。"
+
+#: class-weluka-builder.php:4526
+msgid "Please enter your url."
+msgstr "URLを入力してください。"
+
+#: class-weluka-builder.php:4527
+msgid "Please enter your address."
+msgstr "住所を入力してください。"
+
+#: class-weluka-builder.php:4528
+msgid "Please enter slide image."
+msgstr "スライド画像を選択してください。"
+
+#: class-weluka-builder.php:4529
+msgid "Please select the SNS."
+msgstr "SNSを選択してください。"
+
+#: class-weluka-builder.php:4530
+#, php-format
+msgid "Please enter sns url ({{%s}})."
+msgstr "SNS URLを入力してください({{%s}})。"
+
+#: class-weluka-builder.php:4531
+msgid "Number of columns exceeds the maximum value."
+msgstr "カラム数が最大値を超えています。"
+
+#: class-weluka-builder.php:4532
+msgid "Please enter embed code."
+msgstr "埋め込みコードを入力してください。"
+
+#: class-weluka-builder.php:4533
+msgid "Please enter movie file or url."
+msgstr "動画ファイル選択もしくは動画URLを入力してください。"
+
+#: class-weluka-builder.php:4534
+msgid "Please enter audio file."
+msgstr "Audioファイルを入力してください。"
+
+#: class-weluka-builder.php:4535
+msgid "Please enter title."
+msgstr "タイトルを入力してください。"
+
+#: class-weluka-builder.php:4536
+msgid "Please enter content."
+msgstr "内容を入力してください。"
+
+#: class-weluka-builder.php:4537
+msgid "Please enter panel."
+msgstr "パネルを登録してください。"
+
+#: class-weluka-builder.php:4538
+msgid "Please enter list."
+msgstr "リストを登録してください。"
+
+#: class-weluka-builder.php:4539
+msgid "Please enter menu."
+msgstr "メニューを選択してください。"
+
+#: class-weluka-builder.php:4540
+msgid "Please select the edit data."
+msgstr "編集データを選択してください。"
+
+#: class-weluka-builder.php:4541
+msgid "Please enter description."
+msgstr "説明を入力してください。"
+
+#: class-weluka-builder.php:4542
+msgid "Please check the list display item."
+msgstr "リスト表示項目をチェックしてください。"
+
+#: class-weluka-builder.php:4544
+msgid "Please select custom design."
+msgstr "カスタムデザインを選択してください。"
+
+#: class-weluka-builder.php:4546
+msgid "Please select list name."
+msgstr "リスト名を選択してください。"
+
+#: class-weluka-builder.php:4547
+msgid "Please enter the number slideshow speed is."
+msgstr "スライドショー(msec）は数字を入力してください。"
+
+#: class-weluka-builder.php:4548
+msgid "Please enter the number animation speed is."
+msgstr "スライドショーアニメーション（msec）は数字を入力してください。"
+
+#: class-weluka-builder.php:4549
+msgid "Registered completed."
+msgstr "登録を完了しました。"
+
+#: class-weluka-builder.php:4550
+#, php-format
+msgid "Are you really sure you want to {{%s}} registory?."
+msgstr "{{%s}}を登録してよろしいですか？"
+
+#: class-weluka-builder.php:4551
+#, php-format
+msgid "Are you really sure you want to {{%s}} delete?"
+msgstr "本当に{{%s}}を削除してよろしいですか？"
+
+#: class-weluka-builder.php:4552
+msgid "Please add the content."
+msgstr "コンテンツを追加してください。"
+
+#: class-weluka-builder.php:4553
+msgid "Please select sample."
+msgstr "サンプルを選択してください。"
+
+#: class-weluka-builder.php:4958
+msgid "No posts."
+msgstr ""
+
+#: class-weluka-builder.php:5133
+msgid "Select Month"
+msgstr ""
+
+#: class-weluka-builder.php:5271
+msgid "Page none."
+msgstr ""
+
+#: class-weluka-builder.php:5361
+msgid "<span class=\"rssnone\">Feed none.</span>"
+msgstr ""
+
+#: class-weluka-builder.php:5440
+msgid "<span class=\"tagnone\">Tagcloud none.</span>"
+msgstr ""
+
+#: class-weluka-builder.php:5486 class-weluka-builder.php:5526
+#: class-weluka-builder.php:5591 class-weluka-builder.php:5662
+#: class-weluka-builder.php:5718 class-weluka-builder.php:5813
+msgid "nonce error!"
+msgstr ""
+
+#: class-weluka-builder.php:5672 class-weluka-builder.php:5730
+msgid "model none!"
+msgstr ""
+
+#: class-weluka-builder.php:5825
+msgid "Failed to get the selected layout data."
+msgstr "選択したレイアウトデータの取得に失敗しました。"
+
+#: class-weluka-builder.php:5891
+msgid "Margin (px)"
+msgstr ""
+
+#: class-weluka-builder.php:5895 class-weluka-builder.php:5926
+msgid "Top"
+msgstr ""
+
+#: class-weluka-builder.php:5900 class-weluka-builder.php:5931
+msgid "Bottom"
+msgstr ""
+
+#: class-weluka-builder.php:5907 class-weluka-builder.php:5936
+#: class-weluka-builder.php:6143 includes/builder-snippets.php:1242
+#: includes/builder-snippets.php:1291 includes/builder-snippets.php:1318
+#: includes/builder-snippets.php:1403 includes/builder-snippets.php:1430
+#: includes/builder-snippets.php:1482
+msgid "Left"
+msgstr ""
+
+#: class-weluka-builder.php:5912 class-weluka-builder.php:5941
+#: class-weluka-builder.php:6149 includes/builder-snippets.php:1244
+#: includes/builder-snippets.php:1293 includes/builder-snippets.php:1320
+#: includes/builder-snippets.php:1405 includes/builder-snippets.php:1432
+#: includes/builder-snippets.php:1484
+msgid "Right"
+msgstr ""
+
+#: class-weluka-builder.php:5922
+msgid "Padding (px)"
+msgstr ""
+
+#: class-weluka-builder.php:5957
+msgid "Css Selectors"
+msgstr ""
+
+#: class-weluka-builder.php:5960
+msgid "Class"
+msgstr ""
+
+#: class-weluka-builder.php:5973
+msgid "Block Style"
+msgstr ""
+
+#: class-weluka-builder.php:5979
+msgid "Bg Color"
+msgstr "背景色"
+
+#: class-weluka-builder.php:5988 includes/builder-snippets.php:687
+msgid "Text Color"
+msgstr "テキスト色"
+
+#: class-weluka-builder.php:5997 includes/builder-snippets.php:216
+#: includes/builder-snippets.php:508 includes/builder-snippets.php:1456
+#: includes/builder-snippets.php:1508
+msgid "Shape"
+msgstr "表示形式"
+
+#: class-weluka-builder.php:5999 class-weluka-builder.php:6171
+#: class-weluka-builder.php:6244 includes/builder-snippets.php:1459
+#: includes/builder-snippets.php:1511
+msgid "Square"
+msgstr "四角"
+
+#: class-weluka-builder.php:6000 class-weluka-builder.php:6174
+#: class-weluka-builder.php:6243 includes/builder-snippets.php:1458
+#: includes/builder-snippets.php:1510
+msgid "Round"
+msgstr "角丸"
+
+#: class-weluka-builder.php:6008 includes/builder-snippets.php:1254
+msgid "Border Size (px)"
+msgstr ""
+
+#: class-weluka-builder.php:6020 includes/builder-snippets.php:683
+#: includes/builder-snippets.php:1272
+msgid "Border Color"
+msgstr "枠線色"
+
+#: class-weluka-builder.php:6043 includes/builder-snippets.php:1261
+msgid "solid"
+msgstr ""
+
+#: class-weluka-builder.php:6044 includes/builder-snippets.php:1262
+msgid "dotted"
+msgstr ""
+
+#: class-weluka-builder.php:6045 includes/builder-snippets.php:1263
+msgid "dashed"
+msgstr ""
+
+#: class-weluka-builder.php:6046 includes/builder-snippets.php:1264
+msgid "double"
+msgstr ""
+
+#: class-weluka-builder.php:6047 includes/builder-snippets.php:1265
+msgid "groove"
+msgstr ""
+
+#: class-weluka-builder.php:6048 includes/builder-snippets.php:1266
+msgid "ridge"
+msgstr ""
+
+#: class-weluka-builder.php:6049 includes/builder-snippets.php:1267
+msgid "inset"
+msgstr ""
+
+#: class-weluka-builder.php:6050 includes/builder-snippets.php:1268
+msgid "outset"
+msgstr ""
+
+#: class-weluka-builder.php:6060
+msgid "Font"
+msgstr ""
+
+#: class-weluka-builder.php:6066
+msgid "Gothic"
+msgstr ""
+
+#: class-weluka-builder.php:6069
+msgid "Mincho"
+msgstr ""
+
+#: class-weluka-builder.php:6146 includes/builder-snippets.php:1243
+#: includes/builder-snippets.php:1292 includes/builder-snippets.php:1319
+#: includes/builder-snippets.php:1404 includes/builder-snippets.php:1431
+#: includes/builder-snippets.php:1483
+msgid "Center"
+msgstr ""
+
+#: class-weluka-builder.php:6177
+msgid "Circle"
+msgstr "円"
+
+#: class-weluka-builder.php:6180 includes/builder-snippets.php:1139
+msgid "Thumbnail"
+msgstr "サムネイル"
+
+#: class-weluka-builder.php:6197 class-weluka-builder.php:6282
+#: includes/builder-snippets.php:1443 includes/builder-snippets.php:1495
+msgid "White"
+msgstr ""
+
+#: class-weluka-builder.php:6198 includes/builder-snippets.php:1444
+#: includes/builder-snippets.php:1496
+msgid "Grey"
+msgstr ""
+
+#: class-weluka-builder.php:6199 class-weluka-builder.php:6283
+#: includes/builder-snippets.php:1445 includes/builder-snippets.php:1497
+msgid "Dark Grey"
+msgstr ""
+
+#: class-weluka-builder.php:6200 includes/builder-snippets.php:1446
+#: includes/builder-snippets.php:1498
+msgid "Black"
+msgstr ""
+
+#: class-weluka-builder.php:6201 class-weluka-builder.php:6285
+#: includes/builder-snippets.php:1447 includes/builder-snippets.php:1499
+msgid "Primary"
+msgstr ""
+
+#: class-weluka-builder.php:6202 class-weluka-builder.php:6286
+#: includes/builder-snippets.php:499 includes/builder-snippets.php:1448
+#: includes/builder-snippets.php:1500
+msgid "Success"
+msgstr ""
+
+#: class-weluka-builder.php:6203 class-weluka-builder.php:6287
+#: includes/builder-snippets.php:498 includes/builder-snippets.php:1449
+#: includes/builder-snippets.php:1501
+msgid "Info"
+msgstr ""
+
+#: class-weluka-builder.php:6204 class-weluka-builder.php:6288
+#: includes/builder-snippets.php:500 includes/builder-snippets.php:1450
+#: includes/builder-snippets.php:1502
+msgid "Warning"
+msgstr ""
+
+#: class-weluka-builder.php:6205 class-weluka-builder.php:6290
+#: includes/builder-snippets.php:501 includes/builder-snippets.php:1451
+#: includes/builder-snippets.php:1503
+msgid "Danger"
+msgstr ""
+
+#: class-weluka-builder.php:6223 includes/builder-snippets.php:1465
+#: includes/builder-snippets.php:1517
+msgid "X Small"
+msgstr ""
+
+#: class-weluka-builder.php:6224 includes/builder-snippets.php:1466
+#: includes/builder-snippets.php:1518
+msgid "Small"
+msgstr ""
+
+#: class-weluka-builder.php:6225 includes/builder-snippets.php:1467
+#: includes/builder-snippets.php:1519
+msgid "Medium"
+msgstr ""
+
+#: class-weluka-builder.php:6226 includes/builder-snippets.php:1468
+#: includes/builder-snippets.php:1520
+msgid "Large"
+msgstr ""
+
+#: class-weluka-builder.php:6281
+msgid "Default"
+msgstr ""
+
+#: class-weluka-builder.php:6284
+msgid "Inverse"
+msgstr ""
+
+#: class-weluka-builder.php:6289
+msgid "Magenta"
+msgstr ""
+
+#: class-weluka-builder.php:6303
+msgid "Custom Designs"
+msgstr ""
+
+#: class-weluka-builder.php:6309
+msgid "Custom Design Name"
+msgstr ""
+
+#: class-weluka-builder.php:6311
+msgid "Reg"
+msgstr "登録"
+
+#: class-weluka-builder.php:6355
+msgid "Please set the row column."
+msgstr "1行内のカラム数を設定してください。"
+
+#: class-weluka-builder.php:6380
+msgid "Please set the reference up to 12 column."
+msgstr "最大12カラムを基準に設定してください。"
+
+#: class-weluka-builder.php:6421
+msgid "Fixed width container"
+msgstr "固定幅コンテナー"
+
+#: class-weluka-builder.php:6422
+msgid "Full width container"
+msgstr "フル幅コンテナー"
+
+#: class-weluka-builder.php:6427
+msgid ""
+"Please select whether to set full width to the content container width to a "
+"fixed length. The default is a fixed length."
+msgstr ""
+"コンテンツコンテナー幅を固定長にするかフル幅にするか選択してください。デフォ"
+"ルトは固定長です。"
+
+#: class-weluka-builder.php:6428
+msgid ""
+"If the content container width is set in the theme, it will according to the "
+"theme."
+msgstr ""
+"テーマ内でコンテンツコンテナー幅が設定されている場合、テーマに準じます。"
+
+#: class-weluka-builder.php:6469
+msgid "Meta bottom"
+msgstr "メタ下部"
+
+#: class-weluka-builder.php:6470
+msgid "Content bottom"
+msgstr "コンテンツ下部"
+
+#: class-weluka-builder.php:6471
+msgid "Both"
+msgstr "両方"
+
+#: class-weluka-seo.php:105
+msgid "Search Result"
+msgstr "検索結果"
+
+#: class-weluka-seo.php:107
+#, php-format
+msgid "It is %s search results."
+msgstr "%s の検索結果一覧ページです。"
+
+#: class-weluka-seo.php:113
+msgid "Tagcloud list"
+msgstr "タグ一覧"
+
+#: class-weluka-seo.php:119
+#, php-format
+msgid "It is %s tagcloud list."
+msgstr "%s のタグ一覧ページです。"
+
+#: class-weluka-seo.php:127
+msgid "Category list"
+msgstr "カテゴリー一覧"
+
+#: class-weluka-seo.php:133
+#, php-format
+msgid "It is %s list."
+msgstr "%s の一覧ページです。"
+
+#: includes/builder-snippets.php:16
+msgid "Paragraph"
+msgstr "段落"
+
+#: includes/builder-snippets.php:22
+msgid "Image"
+msgstr "画像"
+
+#: includes/builder-snippets.php:36
+msgid "Link Button"
+msgstr "リンクボタン"
+
+#: includes/builder-snippets.php:61
+msgid "Horizontal Line"
+msgstr "横線"
+
+#: includes/builder-snippets.php:64
+msgid "Alert"
+msgstr "アラート"
+
+#: includes/builder-snippets.php:67 includes/builder-snippets.php:568
+msgid "Embed Code"
+msgstr "埋め込みコード"
+
+#: includes/builder-snippets.php:87
+msgid "Archive List"
+msgstr "アーカイブ"
+
+#: includes/builder-snippets.php:90
+msgid "Custom Menu"
+msgstr "カスタムメニュー"
+
+#: includes/builder-snippets.php:115
+msgid "RSS"
+msgstr ""
+
+#: includes/builder-snippets.php:143 includes/builder-snippets.php:1234
+msgid "Image Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:148 includes/builder-snippets.php:335
+#: includes/builder-snippets.php:430 includes/builder-snippets.php:486
+#: includes/builder-snippets.php:556 includes/builder-snippets.php:608
+#: includes/builder-snippets.php:733 includes/builder-snippets.php:814
+#: includes/builder-snippets.php:859 includes/builder-snippets.php:921
+#: includes/builder-snippets.php:966 includes/builder-snippets.php:1033
+#: includes/builder-snippets.php:1092 includes/builder-snippets.php:1559
+#: includes/builder-snippets.php:1648 includes/builder-snippets.php:1693
+#: includes/builder-snippets.php:1830
+msgid "General"
+msgstr "一般設定"
+
+#: includes/builder-snippets.php:149 includes/builder-snippets.php:280
+#: includes/builder-snippets.php:336 includes/builder-snippets.php:431
+#: includes/builder-snippets.php:487 includes/builder-snippets.php:557
+#: includes/builder-snippets.php:610 includes/builder-snippets.php:734
+#: includes/builder-snippets.php:815 includes/builder-snippets.php:860
+#: includes/builder-snippets.php:922 includes/builder-snippets.php:967
+#: includes/builder-snippets.php:1034 includes/builder-snippets.php:1094
+#: includes/builder-snippets.php:1560 includes/builder-snippets.php:1649
+#: includes/builder-snippets.php:1694 includes/builder-snippets.php:1749
+#: includes/builder-snippets.php:1796 includes/builder-snippets.php:1831
+msgid "Advanced"
+msgstr "高度な設定"
+
+#: includes/builder-snippets.php:157
+msgid "Image Source"
+msgstr "画像元"
+
+#: includes/builder-snippets.php:160
+msgid "Media Libraly"
+msgstr "WPメディアライブラリ"
+
+#: includes/builder-snippets.php:161
+msgid "External Url"
+msgstr "外部サイト"
+
+#: includes/builder-snippets.php:164
+msgid "Lite Version is only Media Libraly."
+msgstr "Lite Versionはメディアライブラリのみとなります。"
+
+#: includes/builder-snippets.php:173
+msgid "Media"
+msgstr ""
+
+#: includes/builder-snippets.php:199
+msgid "Fit width"
+msgstr "フル幅"
+
+#: includes/builder-snippets.php:202
+msgid "I will full width display in the block."
+msgstr "ブロック内でフル幅表示します。"
+
+#: includes/builder-snippets.php:208 includes/builder-snippets.php:352
+#: includes/builder-snippets.php:1240 includes/builder-snippets.php:1289
+#: includes/builder-snippets.php:1316 includes/builder-snippets.php:1401
+#: includes/builder-snippets.php:1428 includes/builder-snippets.php:1480
+msgid "Alignment"
+msgstr "表示位置"
+
+#: includes/builder-snippets.php:230
+msgid "If the image is of an external site, ZOOM can not be used."
+msgstr "画像元が外部サイトの場合、ズームは使用できません。"
+
+#: includes/builder-snippets.php:237 includes/builder-snippets.php:372
+msgid "Link Url"
+msgstr "リンクURL"
+
+#: includes/builder-snippets.php:275
+msgid "Text Setting"
+msgstr "テキスト設定"
+
+#: includes/builder-snippets.php:294
+msgid "Text Shadow Style"
+msgstr "テキストシャドウ"
+
+#: includes/builder-snippets.php:297
+msgid "Basic"
+msgstr ""
+
+#: includes/builder-snippets.php:298
+msgid "Hard"
+msgstr ""
+
+#: includes/builder-snippets.php:299
+msgid "Vintage"
+msgstr ""
+
+#: includes/builder-snippets.php:303
+msgid "Shadow Color"
+msgstr "シャドウカラー"
+
+#: includes/builder-snippets.php:330
+msgid "Button Setting"
+msgstr "ボタン設定"
+
+#: includes/builder-snippets.php:344
+msgid "Button Text"
+msgstr "ボタンテキスト"
+
+#: includes/builder-snippets.php:384
+msgid "Button Style"
+msgstr "ボタンスタイル"
+
+#: includes/builder-snippets.php:397 includes/builder-snippets.php:1471
+#: includes/builder-snippets.php:1523
+msgid "A button block size."
+msgstr "ブロックボタン"
+
+#: includes/builder-snippets.php:425
+msgid "Horizontal Line Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:440
+msgid "Line Width (px)"
+msgstr "線幅 (px)"
+
+#: includes/builder-snippets.php:444
+msgid "Line Style"
+msgstr "スタイル"
+
+#: includes/builder-snippets.php:447
+msgid "Line Color"
+msgstr "カラー"
+
+#: includes/builder-snippets.php:452
+msgid "Builder mode to enter a margin of 5px up and down."
+msgstr "ビルダーモード時は上下に5pxの余白が入ります。"
+
+#: includes/builder-snippets.php:481
+msgid "Alert Setting"
+msgstr "アラート設定"
+
+#: includes/builder-snippets.php:495
+msgid "Alert Type"
+msgstr "アラートタイプ"
+
+#: includes/builder-snippets.php:516
+msgid "Close Button"
+msgstr ""
+
+#: includes/builder-snippets.php:519
+msgid "To enable the close button."
+msgstr "閉じるボタンを表示。"
+
+#: includes/builder-snippets.php:551
+msgid "Embed Code Setting"
+msgstr "埋め込みコード設定"
+
+#: includes/builder-snippets.php:563
+msgid ""
+"After saving of this setting, if the change on the builder is not reflected, "
+"make the builder [Save], please reload the page."
+msgstr ""
+"本設定の保存後、ビルダー上で変更が反映されない場合は、ビルダー[保存]を行い、"
+"ページを再読み込みしてください。"
+
+#: includes/builder-snippets.php:570
+msgid "Please copy and paste the embed tag, such as an external API."
+msgstr "外部API等の埋め込みタグを貼り付けてください。"
+
+#: includes/builder-snippets.php:603
+msgid "Wordpress Custom Menu Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:618
+msgid "Menu Title"
+msgstr ""
+
+#: includes/builder-snippets.php:621 includes/builder-snippets.php:745
+#: includes/builder-snippets.php:826 includes/builder-snippets.php:871
+#: includes/builder-snippets.php:933 includes/builder-snippets.php:978
+#: includes/builder-snippets.php:1045 includes/builder-snippets.php:1105
+#: includes/builder-snippets.php:1571 includes/builder-snippets.php:1660
+#: includes/builder-snippets.php:1705
+msgid "If not input, the title does not appear."
+msgstr "未入力の場合、タイトルは表示されません。"
+
+#: includes/builder-snippets.php:627
+msgid "Select Menu"
+msgstr ""
+
+#: includes/builder-snippets.php:641
+msgid "After the custom menu registration Please reload the page builder."
+msgstr "カスタムメニュー登録後はビルダーページを再読み込みしてください。"
+
+#: includes/builder-snippets.php:654
+msgid "Menu Layout"
+msgstr ""
+
+#: includes/builder-snippets.php:666
+msgid "Menu Content Fixed Width"
+msgstr ""
+
+#: includes/builder-snippets.php:668
+msgid ""
+"Please be content menu to select if you want to display a fixed-width in the "
+"case where the content container width in the section if you have selected a "
+"horizontal menu layout is set to full width. If the content container width "
+"is set in the theme, it will according to the theme."
+msgstr ""
+"メニューレイアウト横を選択した場合でセクションでコンテンツコンテナー幅をフル"
+"幅に設定している場合にメニューコンテンツは固定幅で表示したい場合は選択してく"
+"ださい。テーマ内でコンテンツコンテナー幅が設定されている場合、テーマに準じま"
+"す。"
+
+#: includes/builder-snippets.php:676
+msgid "Custom Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:679
+msgid "Base Color"
+msgstr "ベース色"
+
+#: includes/builder-snippets.php:692
+msgid "Hide Border?"
+msgstr ""
+
+#: includes/builder-snippets.php:697
+msgid ""
+"When you'd like to establish the color besides the color theme, please "
+"establish it more than [Custom Setting]."
+msgstr ""
+"カラーテーマ以外のカラーを設定したい場合は「Custom Setting」より設定してくだ"
+"さい。"
+
+#: includes/builder-snippets.php:728
+msgid "Wordpress Archives Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:751
+msgid "Archive Type"
+msgstr ""
+
+#: includes/builder-snippets.php:754
+msgid "Yearly"
+msgstr "年別"
+
+#: includes/builder-snippets.php:755
+msgid "Monthly"
+msgstr "年月別"
+
+#: includes/builder-snippets.php:756
+msgid "Weekly"
+msgstr "週別"
+
+#: includes/builder-snippets.php:757
+msgid "Daily"
+msgstr "日別"
+
+#: includes/builder-snippets.php:764 includes/builder-snippets.php:1585
+msgid "Show Limit"
+msgstr "表示件数"
+
+#: includes/builder-snippets.php:767 includes/builder-snippets.php:1588
+msgid "Please enter the number you want to display list."
+msgstr "リスト表示件数を入力してください。"
+
+#: includes/builder-snippets.php:773 includes/builder-snippets.php:1603
+msgid "Other."
+msgstr ""
+
+#: includes/builder-snippets.php:776 includes/builder-snippets.php:879
+msgid "Show Dropdown."
+msgstr ""
+
+#: includes/builder-snippets.php:779 includes/builder-snippets.php:883
+msgid "Show Post Count."
+msgstr ""
+
+#: includes/builder-snippets.php:809
+msgid "Wordpress Calendar Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:854
+msgid "Wordpress Categories Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:887
+msgid "Show Hierarchical."
+msgstr ""
+
+#: includes/builder-snippets.php:916
+msgid "Wordpress Meta Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:961
+msgid "Wordpress Pages Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:984
+msgid "Sort by"
+msgstr ""
+
+#: includes/builder-snippets.php:987
+msgid "Menu Order"
+msgstr ""
+
+#: includes/builder-snippets.php:988
+msgid "Page Id"
+msgstr ""
+
+#: includes/builder-snippets.php:989
+msgid "Page Title"
+msgstr ""
+
+#: includes/builder-snippets.php:996
+msgid "Exclude Page Id"
+msgstr ""
+
+#: includes/builder-snippets.php:999
+msgid ""
+"Please enter the page ID that you do not want to display a comma-separated."
+msgstr "表示したくないページIDをカンマ区切りで入力してください。"
+
+#: includes/builder-snippets.php:1028
+msgid "Wordpress Recent Comments Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1051
+msgid "Show Comment Count"
+msgstr "コメント表示数"
+
+#: includes/builder-snippets.php:1054
+msgid "Default 5 comments."
+msgstr ""
+
+#: includes/builder-snippets.php:1087
+msgid "Wordpress Recent Posts Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1111
+msgid "Include Category"
+msgstr "含めたいカテゴリー"
+
+#: includes/builder-snippets.php:1120
+msgid "If the check is not, all categories are eligible."
+msgstr "チェックがない場合、すべてのカテゴリが対象となります。"
+
+#: includes/builder-snippets.php:1126
+msgid "Show Post Item"
+msgstr "表示項目"
+
+#: includes/builder-snippets.php:1131
+msgid "Date"
+msgstr "日時"
+
+#: includes/builder-snippets.php:1135
+msgid "Category"
+msgstr "カテゴリー"
+
+#: includes/builder-snippets.php:1137
+msgid "Comment Count"
+msgstr "コメント数"
+
+#: includes/builder-snippets.php:1141
+msgid "Excerpt"
+msgstr "抜粋"
+
+#: includes/builder-snippets.php:1143
+msgid "Tagcloud"
+msgstr "タグクラウド"
+
+#: includes/builder-snippets.php:1148
+msgid "Tagcloud position"
+msgstr "記事関連タグ表示位置"
+
+#: includes/builder-snippets.php:1155
+msgid "Excerpt String Number"
+msgstr "抜粋文字数"
+
+#: includes/builder-snippets.php:1163
+msgid "More Link Text"
+msgstr "MOREリンクテキスト"
+
+#: includes/builder-snippets.php:1166
+msgid ""
+"Please enter if you want to display a link to see more for each article."
+msgstr "続きを見るリンクを記事毎に表示したい場合は入力してください。"
+
+#: includes/builder-snippets.php:1172
+msgid "All Link"
+msgstr "All リンク"
+
+#: includes/builder-snippets.php:1177
+msgid "All Link Text"
+msgstr "All リンクテキスト"
+
+#: includes/builder-snippets.php:1185
+msgid "Number of posts"
+msgstr "投稿数"
+
+#: includes/builder-snippets.php:1193 includes/builder-snippets.php:1594
+msgid "Height (px)"
+msgstr ""
+
+#: includes/builder-snippets.php:1196 includes/builder-snippets.php:1597
+msgid "Scroll displayed if it exceeds the specified height."
+msgstr "指定した高さを超えた場合はスクロール表示します。"
+
+#: includes/builder-snippets.php:1217
+msgid "Row spacing (px)"
+msgstr ""
+
+#: includes/builder-snippets.php:1221
+msgid "Odd Background Color"
+msgstr "奇数行背景色"
+
+#: includes/builder-snippets.php:1226
+msgid "Even Background Color"
+msgstr "偶数行背景色"
+
+#: includes/builder-snippets.php:1258
+msgid "Border Style"
+msgstr ""
+
+#: includes/builder-snippets.php:1280
+msgid "Post Title Design Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1302 includes/builder-snippets.php:1343
+#: includes/builder-snippets.php:1365 includes/builder-snippets.php:1387
+#: includes/builder-snippets.php:1414
+msgid "Font Size (px)"
+msgstr ""
+
+#: includes/builder-snippets.php:1306
+msgid "Title Color"
+msgstr "タイトル色"
+
+#: includes/builder-snippets.php:1313
+msgid "Meta Common Design Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1327
+msgid "Date Design Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1333
+msgid "date format (Ex Y-m-d h:i)"
+msgstr ""
+
+#: includes/builder-snippets.php:1335
+msgid "Please refer to the PHP date function for date format."
+msgstr "date formatについてはPHP date関数を参照してください。"
+
+#: includes/builder-snippets.php:1347 includes/builder-snippets.php:1369
+#: includes/builder-snippets.php:1391
+msgid "Color"
+msgstr "色"
+
+#: includes/builder-snippets.php:1354
+msgid "Category Design Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1376
+msgid "Author Design Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1398
+msgid "Excerpt Design Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1418
+msgid "Content Color"
+msgstr "コンテンツ色"
+
+#: includes/builder-snippets.php:1425
+msgid "More Button Design Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1441 includes/builder-snippets.php:1493
+msgid "Button Color"
+msgstr ""
+
+#: includes/builder-snippets.php:1463 includes/builder-snippets.php:1515
+msgid "Button Size"
+msgstr ""
+
+#: includes/builder-snippets.php:1477
+msgid "All Button Design Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1554
+msgid "Wordpress RSS Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1577
+msgid "RSS Feed Url"
+msgstr ""
+
+#: includes/builder-snippets.php:1606
+msgid "Show Excerpt."
+msgstr ""
+
+#: includes/builder-snippets.php:1609
+msgid "Show Author."
+msgstr ""
+
+#: includes/builder-snippets.php:1613
+msgid "Show Date."
+msgstr ""
+
+#: includes/builder-snippets.php:1643
+msgid "Wordpress Search Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1688
+msgid "Wordpress Tag Cloud Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1711
+msgid "Taxonomy Type"
+msgstr ""
+
+#: includes/builder-snippets.php:1714
+msgid "Tags"
+msgstr ""
+
+#: includes/builder-snippets.php:1744
+msgid "Colum Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1757
+msgid "Column"
+msgstr "カラム数"
+
+#: includes/builder-snippets.php:1764
+msgid "Please adjust so that it is up to 12 columns in a row."
+msgstr "行内で最大12カラムになるよう調整してください。"
+
+#: includes/builder-snippets.php:1791
+msgid "Row Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1825
+msgid "Section Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1840
+msgid "BG Image"
+msgstr "背景画像"
+
+#: includes/builder-snippets.php:1845
+msgid "Size"
+msgstr "サイズ"
+
+#: includes/builder-snippets.php:1847
+msgid "Size Input"
+msgstr ""
+
+#: includes/builder-snippets.php:1848
+msgid "Cover"
+msgstr ""
+
+#: includes/builder-snippets.php:1849
+msgid "Contain"
+msgstr ""
+
+#: includes/builder-snippets.php:1852
+msgid ""
+"If you specify the [Size Input], Please enter width and height. (Example) "
+"50% 50%"
+msgstr "[Size Input]を指定した場合、幅、高さを入力してください。(例) 50% 50%"
+
+#: includes/builder-snippets.php:1859
+msgid "Position"
+msgstr "位置"
+
+#: includes/builder-snippets.php:1863
+msgid "(Example) 50% 50%"
+msgstr "(例) 50% 50%"
+
+#: includes/builder-snippets.php:1870 includes/builder-snippets.php:1873
+msgid "Repeat"
+msgstr ""
+
+#: includes/builder-snippets.php:1872
+msgid "No Repeat"
+msgstr ""
+
+#: includes/builder-snippets.php:1874
+msgid "Repeat X"
+msgstr ""
+
+#: includes/builder-snippets.php:1875
+msgid "Repeat Y"
+msgstr ""
+
+#: includes/builder-snippets.php:1881
+msgid "Attachment"
+msgstr ""
+
+#: includes/builder-snippets.php:1883
+msgid "Scroll"
+msgstr ""
+
+#: includes/builder-snippets.php:1884
+msgid "Fixed"
+msgstr ""
+
+#: includes/builder-snippets.php:1893
+msgid "BG Color"
+msgstr "背景色"
+
+#: includes/builder-snippets.php:1902
+msgid "Font Color"
+msgstr "文字色"
+
+#: includes/builder-snippets.php:1911
+msgid "Anchor"
+msgstr "アンカー"
+
+#: includes/builder-snippets.php:1945
+msgid "Page Setting"
+msgstr ""
+
+#: includes/builder-snippets.php:1963
+msgid "Keywords"
+msgstr "キーワード"
+
+#: includes/builder-snippets.php:1972
+msgid "description"
+msgstr "説明"
+
+#: weluka.php:86
+#, php-format
+msgid "%s requires WordPress version %s or later."
+msgstr ""
+"ご使用のWordPress Version（%s）、本プラグインはWordPress Version（%s）以上が"
+"対象となります。 "
+
+#: weluka.php:788
+msgid "Did you save?. Are you sure you want to leave this page?"
+msgstr "保存しましたか？ ページを離れてよろしいですか？"
+
+#: weluka.php:789
+msgid "But do contents preserve a blank (null)?"
+msgstr "コンテンツが空（null）ですが保存しますか?"
+
+#: weluka.php:1310
+#, php-format
+msgid "Draft Post #%d"
+msgstr "下書き #%d"
+
+#. Description of the plugin/theme
+msgid ""
+"weluka is a drag and drop content builder that runs on a variety of themes."
+"(Lite Version)"
+msgstr ""
+"welukaは様々なテーマ上で動作するドラッグ＆ドロップ コンテンツビルダーです。"
+
+#. Author of the plugin/theme
+msgid "weluka team"
+msgstr "welukaチーム"
+
+#~ msgid ""
+#~ "Please refer to a <a href=\"%s\" target=\"_blank\">Document</a> and a <a "
+#~ "href=\"%s\" target=\"_blank\">Faq</a> about Help."
+#~ msgstr ""
+#~ "ヘルプについては<a href=\"%s\" target=\"_blank\">ドキュメント</a>、<a "
+#~ "href=\"%s\" target=\"_blank\">FAQ</a>をご参照ください。"
+
+#~ msgid "Container Type : "
+#~ msgstr "コンテナータイプ : "
+
+#~ msgid "It failed to remove Webfont css file."
+#~ msgstr "Webfont cssファイルの削除に失敗しました。"
+
+#~ msgid "It failed to create Webfont css file."
+#~ msgstr "Webfont cssファイルの作成に失敗しました。"
+
+#~ msgid "You do not have write permissions to the directory (%s)."
+#~ msgstr "ディレクトリ(%s)に書き込み権限がありません。"
+
+#~ msgid "Relative Path? : "
+#~ msgstr "相対パスに変換? : "
+
+#~ msgid "Site domain only"
+#~ msgstr "サイトドメインのみ"
+
+#~ msgid "Site domain only(http(s) only omitted)"
+#~ msgstr "サイトドメインのみ（http(s) 省略） "
+
+#~ msgid "http(s) only omitted"
+#~ msgstr "http(s) 省略のみ"
+
+#~ msgid ""
+#~ "Please set to [Enable] if Weluka using this function to replace the path, "
+#~ "such as css to a relative path.<br />Please select the [http(s) omitted "
+#~ "only] if you replace only http  to omit system."
+#~ msgstr ""
+#~ "Weluka本機能を利用してcssなどのパスを相対パスに置き換える場合は[有効]にし"
+#~ "てください。http(s)のみ省略系に置き換える場合は[http(s) 省略のみ]を選択し"
+#~ "てください。"
+
+#~ msgid ""
+#~ "This function might be linked URL or the like to be dynamically added and "
+#~ "specifications of the combination plug-ins can not be converted. In "
+#~ "addition, there is a possibility that no longer work due to http (s) "
+#~ "optional external API tag."
+#~ msgstr ""
+#~ "本機能は併用プラグインの仕様や動的に追加されるリンクURL等は変換できない場"
+#~ "合があります。又、外部APIタグなどhttp(s)省略により動作しなくなる可能性があ"
+#~ "ります。"
+
+#~ msgid "Container Type"
+#~ msgstr "コンテナー（幅）タイプ"
+
+#~ msgid "Container Height(vh)"
+#~ msgstr "コンテナー高さ（vh）"
+
+#~ msgid ""
+#~ "The central display of the container within the content to the container "
+#~ "height."
+#~ msgstr "コンテナー内コンテンツをコンテナー高さに対して中央表示"
+
+#~ msgid "Lite Version is only Image."
+#~ msgstr "Lite Versionは画像のみとなります。"
+
+#~ msgid "Background Overlay"
+#~ msgstr "背景オーバレイ"
+
+#~ msgid "Page Layout"
+#~ msgstr "ページレイアウト"
+
+#~ msgid "One page?"
+#~ msgstr "ワンページ形式?"
+
+#~ msgid "This page I want to one-page form."
+#~ msgstr "本ページをワンページ（ペラページ）形式にする。"
+
+#~ msgid "Hide Header?"
+#~ msgstr "ページヘッダー非表示?"
+
+#~ msgid "Hide page header in this page."
+#~ msgstr "本ページではページヘッダーを非表示にする。"
+
+#~ msgid "Hide Footer?"
+#~ msgstr "ページフッター非表示?"
+
+#~ msgid "Hide page footer in this page."
+#~ msgstr "本ページではページフッターを非表示にする。"
+
+#~ msgid "Hide Sidebar Main?"
+#~ msgstr "メインサイドバー非表示?"
+
+#~ msgid "Hide sidebar main in this page."
+#~ msgstr "本ページではメインサイドバーを非表示にする。"
+
+#~ msgid "Hide Sidebar Sub?"
+#~ msgstr "サブサイドバー非表示?"
+
+#~ msgid "Hide sidebar sub in this page."
+#~ msgstr "本ページではサブサイドバーを非表示にする。"
+
+#~ msgid "Show Sidebar Main?"
+#~ msgstr "メインサイドバー表示？"
+
+#~ msgid "Show sidebar main in this page."
+#~ msgstr "本ページではメインサイドバーを表示する。"
+
+#~ msgid "Sidebar main place : "
+#~ msgstr "メインサイドバー表示位置： "
+
+#~ msgid ""
+#~ "When you'd like to show a side bar to a target page compulsorily when "
+#~ "choosing a side bar pear layout by layout setting, please check this."
+#~ msgstr ""
+#~ "レイアウト設定でサイドバーなしレイアウトを選択している場合に強制的に対象"
+#~ "ページにサイドバーを表示したい場合は、こちらをチェックしてください。"
+
+#~ msgid "Show Sidebar Sub?"
+#~ msgstr "サブサイドバー表示？"
+
+#~ msgid "Show sidebar sub in this page."
+#~ msgstr "本ページではサブサイドバーを表示する。"
+
+#~ msgid "Use Page Header"
+#~ msgstr "使用ページヘッダー"
+
+#~ msgid ""
+#~ "Please select if you want to change the header to be used in this page."
+#~ msgstr "このページで使用するヘッダーを変更したい場合は選択してください。"
+
+#~ msgid "Use Page Footer"
+#~ msgstr "使用ページフッター"
+
+#~ msgid ""
+#~ "Please select if you want to change the footer to be used in this page."
+#~ msgstr "このページで使用するフッターを変更したい場合は選択してください。"
+
+#~ msgid "Use Sidebar Main"
+#~ msgstr "使用メインサイドバー"
+
+#~ msgid ""
+#~ "Please select if you want to change the main sidebar to be used in this "
+#~ "page."
+#~ msgstr ""
+#~ "このページで使用するメインサイドバーを変更したい場合は選択してください。"
+
+#~ msgid "Use Sidebar Sub"
+#~ msgstr "使用サブサイドバー"
+
+#~ msgid ""
+#~ "Please select if you want to change the sub-side bar to be used in this "
+#~ "page. (Right sidebar in the case of a 3 column)"
+#~ msgstr ""
+#~ "このページで使用するサブサイドバーを変更したい場合は選択してください。(3カ"
+#~ "ラムの場合の右サイドバー）"
+
+#~ msgid "Content Setting"
+#~ msgstr "コンテンツ設定"
+
+#~ msgid "Hide Post Title?"
+#~ msgstr "ページタイトルを非表示？"
+
+#~ msgid "Show"
+#~ msgstr "表示"
+
+#~ msgid "Hide"
+#~ msgstr "非表示"
+
+#~ msgid "Eye-catching image?"
+#~ msgstr "アイキャッチ画像を表示?"
+
+#~ msgid "Non-select"
+#~ msgstr "選択なし"
+
+#~ msgid "Hide Post Meta?"
+#~ msgstr "投稿メタを非表示？"
+
+#~ msgid "Hide Post Tagcloud?"
+#~ msgstr "記事関連タグを非表示？"
+
+#~ msgid "Hide Post Paging link?"
+#~ msgstr "記事内ページングリンク非表示？"
+
+#~ msgid "Hide Breadcrumb?"
+#~ msgstr "パンくずを非表示？"
+
+#~ msgid "Outside the builder contents The container type"
+#~ msgstr "ビルダーコンテンツ外（ページタイトル　etc ...）のコンテナータイプ"
+
+#~ msgid ""
+#~ "Builder outside of contents (the page title, comment and META, etc.)  "
+#~ "Please establish the container type. I'd like to show this setting to the "
+#~ "page title by a fixed width container by a full width container. Or it's "
+#~ "used for its reverse occasion."
+#~ msgstr ""
+#~ "ビルダーコンテンツ外（ページタイトル、コメント、メタ等） コンテナータイプ"
+#~ "を設定してください。本設定はフル幅コンテナーでページタイトル等は固定幅コン"
+#~ "テナーで表示したい。またはその逆の場合に使用します。"
+
+#~ msgid ""
+#~ "If you change the [page layout] or [content] settings, please re-load it "
+#~ "to save time."
+#~ msgstr ""
+#~ "ページレイアウト、コンテンツ設定を変更した場合、一度保存し再ロードしてくだ"
+#~ "さい。"
+
+#~ msgid "Disable page builder for user groups : "
+#~ msgstr "ビルダーを無効にしたいユーザーグループ : "
+
+#~ msgid ""
+#~ "Please check the user group that you want to disable the page builder."
+#~ msgstr ""
+#~ "Welukaページビルダーを無効にしたいユーザーグループをチェックしてください。"
+
+#~ msgid "Web Fonts : "
+#~ msgstr "ウェブフォント"
+
+#~ msgid "Font Family : "
+#~ msgstr "フォントファミリー : "
+
+#~ msgid "Add"
+#~ msgstr "追加"
+
+#~ msgid "Select and use font you want, please click on the [Add] button."
+#~ msgstr "利用したいフォントを選択し、「Add」ボタンをクリックしてください。"
+
+#~ msgid "Favicon : "
+#~ msgstr "ファビコン : "
+
+#~ msgid "Set Favicon"
+#~ msgstr "ファビコン選択"
+
+#~ msgid "Clear"
+#~ msgstr "クリア"
+
+#~ msgid "Touch Icon : "
+#~ msgstr "タッチアイコン : "
+
+#~ msgid "Set Touch Icon"
+#~ msgstr "タッチアイコン選択"
+
+#~ msgid "Please set in when embedding such as Google Analytics analysis code."
+#~ msgstr "Google Analytics 解析コードなどを埋め込む際に設定してください。"
+
+#~ msgid "Font Styles : "
+#~ msgstr "フォントスタイル : "
+
+#~ msgid "Font Preview : "
+#~ msgstr "フォントプレビュー : "
+
+#~ msgid "Confirmation of font image from here."
+#~ msgstr "フォントイメージを確認したい場合はこちら"
+
+#~ msgid "Select Icon"
+#~ msgstr "アイコン選択"
+
+#~ msgid "Slide"
+#~ msgstr "スライド画像"
+
+#~ msgid "Social Button"
+#~ msgstr "ソーシャルボタン"
+
+#~ msgid "Social Share Button"
+#~ msgstr "ソーシャルシェアボタン"
+
+#~ msgid "Movie"
+#~ msgstr "動画"
+
+#~ msgid "Audio"
+#~ msgstr "音源"
+
+#~ msgid "Accordion Panel"
+#~ msgstr "折りたたみパネル"
+
+#~ msgid "Tab Panel"
+#~ msgstr "タブパネル"
+
+#~ msgid "Google Map"
+#~ msgstr "グーグルマップ"
+
+#~ msgid "List"
+#~ msgstr "リスト"
+
+#~ msgid "Movie Setting"
+#~ msgstr "動画設定"
+
+#~ msgid "Movie Source"
+#~ msgstr "動画ソース"
+
+#~ msgid "Lite Version is only Youtube."
+#~ msgstr "Lite VersionはYoutubeのみとなります。"
+
+#~ msgid "Embed URL or CODE"
+#~ msgstr "埋め込みURL or コード "
+
+#~ msgid "Please type or paste the youtube url."
+#~ msgstr "Youtube 動画URLを入力または貼り付けてください。"
+
+#~ msgid "Please type or paste the vimeo url."
+#~ msgstr "Vimeo 動画URLを入力または貼り付けてください。"
+
+#~ msgid "Please type or paste the niconico url."
+#~ msgstr "ニコニコ動画 URL or 埋め込みコードを入力または貼り付けてください。"
+
+#~ msgid "Please type or paste the Ustream iframe embed code."
+#~ msgstr "Ustrem 埋め込みコードを貼り付けてください。"
+
+#~ msgid "Display not movie title."
+#~ msgstr "タイトルを非表示"
+
+#~ msgid "Display not movie control."
+#~ msgstr "コントロールを非表示"
+
+#~ msgid "Display not movie author."
+#~ msgstr "著者を非表示"
+
+#~ msgid "Display not logo."
+#~ msgstr "ロゴを非表示"
+
+#~ msgid "Display not related movie."
+#~ msgstr "関連動画非表示"
+
+#~ msgid "Width(px)"
+#~ msgstr "幅(px)"
+
+#~ msgid "If not specified, it appears fit."
+#~ msgstr "指定しない場合はフィット表示されます。"
+
+#~ msgid "Height(px)"
+#~ msgstr "高さ(px)"
+
+#~ msgid "Theme Setting"
+#~ msgstr "テーマ設定"
+
+#~ msgid "Theme Color"
+#~ msgstr "テーマカラー"
+
+#~ msgid "Theme setting update success!!"
+#~ msgstr "更新を完了しました。"
+
+#~ msgid "Weluka Theme Setting"
+#~ msgstr "Weluka テーマ設定"
+
+#~ msgid "Layout Setting"
+#~ msgstr "レイアウト設定"
+
+#~ msgid "Home Layout : "
+#~ msgstr "ホームレイアウト : "
+
+#~ msgid "Common Layout : "
+#~ msgstr "その他レイアウト : "
+
+#~ msgid "Default Page Header : "
+#~ msgstr "標準ページヘッダー : "
+
+#~ msgid "Default Page Footer : "
+#~ msgstr "標準ページフッター : "
+
+#~ msgid "Default Sidebar Main : "
+#~ msgstr "標準メインサイドバー : "
+
+#~ msgid ""
+#~ "If the layout is 2 column, or please select the 3 columns on the left "
+#~ "side bar."
+#~ msgstr ""
+#~ "レイアウトが2カラムの場合、もしくは3カラムの左サイドバーを選択してくださ"
+#~ "い。"
+
+#~ msgid "Default Sidebar Sub : "
+#~ msgstr "標準サブサイドバー : "
+
+#~ msgid "Please select the right sidebar of the case layout is 3 column."
+#~ msgstr "レイアウトが3カラムの場合の右サイドバーを選択してください。"
+
+#~ msgid "Logo image : "
+#~ msgstr "ロゴ画像 : "
+
+#~ msgid "Footer Copyright : "
+#~ msgstr "フッターコピーライト : "
+
+#~ msgid "Html tag can be entered."
+#~ msgstr "HTMLタグ 入力できます。"
+
+#~ msgid "Header fixing : "
+#~ msgstr "ヘッダー固定 : "
+
+#~ msgid "all header fixed"
+#~ msgstr "ヘッダー全てを固定する"
+
+#~ msgid "A designated [class name] header fixing"
+#~ msgstr "指定した css classのみを固定する"
+
+#~ msgid "A designated class name : "
+#~ msgstr "固定するcss class名"
+
+#~ msgid ""
+#~ "Fixed header has to be a page finial certainly. When designating a class, "
+#~ "please be sure to set it as contents of a page finial."
+#~ msgstr ""
+#~ "固定するヘッダーは必ずページ最上部である必要があります。クラスを指定する場"
+#~ "合は必ずページ最上部のコンテンツに設定してください。"
+
+#~ msgid "A margin for the height of the fixed header, automatic setting"
+#~ msgstr "固定ヘッダー高さ分の余白を自動設定する"
+
+#~ msgid ""
+#~ "When not self-adjusting one for the fixed header height, please adjust a "
+#~ "margin by contents under the fixed header."
+#~ msgstr ""
+#~ "固定ヘッダー高さ分を自動調整しない場合は固定ヘッダー下のコンテンツで余白を"
+#~ "調整してください。"
+
+#~ msgid "Builder mode the header fixed also I want to enable"
+#~ msgstr "固定ヘッダーをビルダーモード時も有効にする"
+
+#~ msgid "Post eye-catching image : "
+#~ msgstr "投稿ページにアイキャッチ画像を表示 : "
+
+#~ msgid "Page eye-catching image : "
+#~ msgstr "固定ページにアイキャッチ画像を表示 : "
+
+#~ msgid "Post Setting"
+#~ msgstr "投稿設定"
+
+#~ msgid "Home blog style excludes category : "
+#~ msgstr "Homeがブログスタイルの際の除外したいカテゴリー : "
+
+#~ msgid "Number of posts(Home blog style) : "
+#~ msgstr "表示投稿数（Homeブログスタイル時） : "
+
+#~ msgid ""
+#~ "When Home is a blog style, please enter the maximum number to be "
+#~ "displayed on one page."
+#~ msgstr ""
+#~ "Homeが ブログスタイルの際、1ページに表示する最大件数を入力してください。"
+
+#~ msgid "Number of posts(Archive) : "
+#~ msgstr "表示投稿数（アーカイブ） : "
+
+#~ msgid ""
+#~ "When the archive, please enter the maximum number to be displayed on one "
+#~ "page."
+#~ msgstr "アーカイブの際、1ページに表示する最大件数を入力してください。"
+
+#~ msgid "Hide meta to post list : "
+#~ msgstr "記事一覧（アーカイブ）非表示にしたいメタ情報 : "
+
+#~ msgid "Hide meta to post single : "
+#~ msgstr "記事ページ 非表示にしたいメタ情報 : "
+
+#~ msgid "Hide tagcloud to post list : "
+#~ msgstr "記事一覧（アーカイブ）に関連タグクラウドを非表示 :"
+
+#~ msgid "Tagcloud position to post list : "
+#~ msgstr "記事一覧（アーカイブ） 関連タグクラウド表示位置 :"
+
+#~ msgid "Hide tagcloud to post single : "
+#~ msgstr "記事ページに関連タグクラウドを非表示 : "
+
+#~ msgid "Tagcloud position to post single : "
+#~ msgstr "記事ページ 関連タグクラウド表示位置 : "
+
+#~ msgid "Hide paging link to post single : "
+#~ msgstr "記事ページ内のページングリンクを非表示 : "
+
+#~ msgid "Post Date Format : "
+#~ msgstr "記事日時フォーマット : "
+
+#~ msgid ""
+#~ "List, Please specify the format of the post date to be displayed on the "
+#~ "page within the like. Example) If you want to display as of October 1, "
+#~ "2015, please specify the Y year m month d date.(can be specified format, "
+#~ "<a href=\"//wpdocs.osdn.jp/Formatting_Date_and_Time\" target=\"_blank"
+#~ "\">please refer to here.</a>)"
+#~ msgstr ""
+#~ "一覧、ページ内等に表示される投稿日付の形式を指定してください。例）2015年10"
+#~ "月01日のように表示したい場合、Y年m月d日 と指定してください。（<a href=\"//"
+#~ "wpdocs.osdn.jp/Formatting_Date_and_Time\" target=\"_blank\">指定可能形式は"
+#~ "こちらを参照ください。</a>）"
+
+#~ msgid "Excerpt String Number : "
+#~ msgstr "抜粋文字数 : "
+
+#~ msgid ""
+#~ "Please specify the number of characters in the post excerpt that is "
+#~ "displayed in the list such as in single-byte number. It becomes WordPress "
+#~ "standard characters for unspecified."
+#~ msgstr ""
+#~ "一覧等に表示される投稿抜粋の文字数を半角数字で指定してください。指定なしの"
+#~ "場合はWordPress標準文字数となります。"
+
+#~ msgid "List Format : "
+#~ msgstr "リスト表示形式 : "
+
+#~ msgid ""
+#~ "Home blog style, please select the Innovation list format at the time of "
+#~ "the archive."
+#~ msgstr "Home ブログスタイル、アーカイブ時のリスト形式を選択してください。"
+
+#~ msgid "List Row Column : "
+#~ msgstr "リストカラム数／行 : "
+
+#~ msgid ""
+#~ "Please select the number of columns the case of a vertical list format."
+#~ msgstr "リストフォーマットが縦型の場合のカラム数を選択してください。"
+
+#~ msgid "List Button Text : "
+#~ msgstr "リストボタンテキスト : "
+
+#~ msgid "Read more"
+#~ msgstr "続きを見る"
+
+#~ msgid "Please input a link button text of an archive list."
+#~ msgstr "アーカイブ一覧のリンクボタンテキストを入力してください。"
+
+#~ msgid ""
+#~ "Please establish the no image picture used for an archive list. When not "
+#~ "establishing it, a noimage picture of a theme accessory is applied."
+#~ msgstr ""
+#~ "アーカイブ一覧等で使用するno image画像を設定してください。設定していない場"
+#~ "合、テーマ付属のnoimage画像が適用されます。"
+
+#~ msgid "Custom style is not set to style.css, please set here."
+#~ msgstr "カスタムスタイルはstyle.cssに設定せず、こちらに設定してください。"
+
+#~ msgid "Theme color update success!!"
+#~ msgstr "更新を完了しました。"
+
+#~ msgid "Weluka Color Setting"
+#~ msgstr "Weluka テーマカラー設定"
+
+#~ msgid "Color Type Select"
+#~ msgstr "カラータイプ選択"
+
+#~ msgid "Site name : "
+#~ msgstr "サイト名 : "
+
+#~ msgid "Body Background : "
+#~ msgstr "ボディ背景 : "
+
+#~ msgid "Body Text : "
+#~ msgstr "ボディテキスト : "
+
+#~ msgid "Heading Text &amp; Accent : "
+#~ msgstr "ヘッディングテキスト &amp; アクセント : "
+
+#~ msgid "A Link : "
+#~ msgstr "リンク : "
+
+#~ msgid "Hover : "
+#~ msgstr "ホバー : "
+
+#~ msgid "Block Panel : "
+#~ msgstr "ブロックパネル : "
+
+#~ msgid "Background : "
+#~ msgstr "背景 : "
+
+#~ msgid "Border : "
+#~ msgstr "枠線 : "
+
+#~ msgid ""
+#~ "Sidebar widget, background, such as page title color, it becomes the "
+#~ "border color."
+#~ msgstr "サイドバーウィジェット、ページタイトル等の背景色、ボーダー色です。"
+
+#~ msgid "Header Background : "
+#~ msgstr "サイトヘッダー背景 : "
+
+#~ msgid "Header Text : "
+#~ msgstr "サイトヘッダーテキスト : "
+
+#~ msgid "Header Heading Text : "
+#~ msgstr "サイトヘッダーヘッディングテキスト : "
+
+#~ msgid "Header A Link : "
+#~ msgstr "サイトヘッダー リンク : "
+
+#~ msgid "Header Bottom Border : "
+#~ msgstr "サイトヘッダー下線 : "
+
+#~ msgid "Main menu : "
+#~ msgstr "メインメニュー : "
+
+#~ msgid "Base : "
+#~ msgstr "ベース : "
+
+#~ msgid "Text : "
+#~ msgstr "テキスト : "
+
+#~ msgid "Footer Background : "
+#~ msgstr "サイトフッター背景 : "
+
+#~ msgid "Footer Text : "
+#~ msgstr "サイトフッターテキスト : "
+
+#~ msgid "Footer Heading Text : "
+#~ msgstr "サイトフッターヘッディングテキスト : "
+
+#~ msgid "Footer A Link : "
+#~ msgstr "サイトフッターリンク : "
+
+#~ msgid "Footer Top Border : "
+#~ msgstr "サイトフッター上線 : "
+
+#~ msgid ""
+#~ "Primary button, the background color of the panel or the like, border "
+#~ "color, text color."
+#~ msgstr "Primary ボタン、パネル等の背景色、ボーダー色、テキスト色です。"
+
+#~ msgid "Please enter the text color and text color button panel."
+#~ msgstr ""
+#~ "テキストカラーはボタン・パネルなどのテキストカラーを入力してください。"
+
+#~ msgid ""
+#~ "Success button, the background color of the panel or the like, border "
+#~ "color, text color."
+#~ msgstr "Success ボタン、パネル等の背景色、ボーダー色、テキスト色です。"
+
+#~ msgid ""
+#~ "Info button, the background color of the panel or the like, border color, "
+#~ "text color."
+#~ msgstr "Info ボタン、パネル等の背景色、ボーダー色、テキスト色です。"
+
+#~ msgid ""
+#~ "Warning button, the background color of the panel or the like, border "
+#~ "color, text color."
+#~ msgstr "Warning ボタン、パネル等の背景色、ボーダー色、テキスト色です。"
+
+#~ msgid ""
+#~ "Danger button, the background color of the panel or the like, border "
+#~ "color, text color."
+#~ msgstr "Danger ボタン、パネル等の背景色、ボーダー色、テキスト色です。"
+
+#~ msgid "Select Color : "
+#~ msgstr "カラー選択 : "
+
+#~ msgid "New Color Name : "
+#~ msgstr "新規カラー名 : "
+
+#~ msgid "Save Color"
+#~ msgstr "カラー保存"
+
+#~ msgid "Delete Color"
+#~ msgstr "カラー削除"
+
+#~ msgid ""
+#~ "If you want to save the set color information in a new, and enter a new "
+#~ "color name, if you want to update selects a color name, please click the "
+#~ "color Save button."
+#~ msgstr ""
+#~ "設定したカラー情報を新規で保存したい場合、新規カラー名を入力、更新したい場"
+#~ "合はカラー名を選択し、[カラー保存]ボタンをクリックしてください。"
+
+#~ msgid "Please enter a color name."
+#~ msgstr "カラー名を入力してください。"
+
+#~ msgid "Please select a color name."
+#~ msgstr "カラー名を選択してください。"
+
+#~ msgid "Are you sure you want to delete the color?"
+#~ msgstr "カラーを削除してよろしいですか？"
+
+#~ msgid "Custom Headers"
+#~ msgstr "カスタムヘッダー"
+
+#~ msgid "Custom Header"
+#~ msgstr "カスタムヘッダー"
+
+#~ msgid "Custom Header Add"
+#~ msgstr "カスタムヘッダー追加"
+
+#~ msgid "Custom Header Edit"
+#~ msgstr "カスタムヘッダー編集"
+
+#~ msgid "Header List"
+#~ msgstr "ヘッダー一覧"
+
+#~ msgid "Custom Footers"
+#~ msgstr "カスタムフッター"
+
+#~ msgid "Custom Footer"
+#~ msgstr "カスタムフッター"
+
+#~ msgid "Custom Footer Add"
+#~ msgstr "カスタムフッター追加"
+
+#~ msgid "Custom Footer Edit"
+#~ msgstr "カスタムフッター編集"
+
+#~ msgid "Footer List"
+#~ msgstr "フッター一覧"
+
+#~ msgid "Custom Sidebars"
+#~ msgstr "カスタムサイドバー"
+
+#~ msgid "Custom Sidebar"
+#~ msgstr "カスタムサイドバー"
+
+#~ msgid "Custom Sidebar Add"
+#~ msgstr "カスタムサイドバー追加"
+
+#~ msgid "Custom Sidebar Edit"
+#~ msgstr "カスタムサイドバー編集"
+
+#~ msgid "Sidebar List"
+#~ msgstr "サイドバー一覧"
+
+#~ msgid "<div>Font has not been set.</div>"
+#~ msgstr "<div>フォントは設定されてません。</div>"
+
+#~ msgid "Please enter font family."
+#~ msgstr "フォントを選択してください。"
+
+#~ msgid "Please enter font styles."
+#~ msgstr "フォントスタイルを選択してください。"
+
+#~ msgid "Please enter font charsets."
+#~ msgstr "フォントキャラクターセットを選択してください。"
+
+#~ msgid "License key"
+#~ msgstr "ライセンスキー"
+
+#~ msgid "license update success!!"
+#~ msgstr "ライセンス登録完了!!"
+
+#~ msgid "license authentication release success!!"
+#~ msgstr "ライセンス認証解除を完了しました。"
+
+#~ msgid "Lisence key : "
+#~ msgstr "ライセンスキー : "
+
+#~ msgid ""
+#~ "You can use the functions of the WELUKA by Enter authenticate the license "
+#~ "key.<br /><a href=\"%s\" target=\"_blank\">Contact us from here.</a>"
+#~ msgstr ""
+#~ "ライセンスキーを入力し認証することでWELUKAの機能をお使いいただけます。"
+#~ "<br /><a href=\"%s\" target=\"_blank\">お問い合わせはこちらから</a>"
+
+#~ msgid "Authentication"
+#~ msgstr "ライセンス認証"
+
+#~ msgid ""
+#~ "When moving a site to another server for server relocation, please do "
+#~ "[authentication release] and after relocation completion, put license "
+#~ "authentication into effect by a relocation previous server."
+#~ msgstr ""
+#~ "サーバー移設等でサイトを別サーバーに移す場合、[ライセンス認証解除]を行い、"
+#~ "移設完了後、移設先サーバーでライセンス認証を実施してください。"
+
+#~ msgid "Lisence release siteurl : "
+#~ msgstr "認証解除URL : "
+
+#~ msgid "Authentication release"
+#~ msgstr "ライセンス認証解除"
+
+#~ msgid ""
+#~ "Forget the license authentication release, etc. If you change the site "
+#~ "URL, please be carried out by entering the change before the site URL to "
+#~ "deauthorize URL [license authentication release]."
+#~ msgstr ""
+#~ "ライセンス認証解除を忘れて、サイトURLを変更した場合等、変更前サイトURLを認"
+#~ "証解除URLに入力し「ライセンス認証解除」を実施してください。"
+
+#~ msgid "May I carry out license authentication release?"
+#~ msgstr "ライセンス認証解除を実行してよろしいですか？"
+
+#~ msgid "license authentication error! (%s)"
+#~ msgstr "ライセンス認証エラー! (%s)"
+
+#~ msgid "license authentication release error! (%s)"
+#~ msgstr "ライセンス認証解除エラー! (%s)"
+
+#~ msgid "SNS button display settings."
+#~ msgstr "ソーシャルリンクボタンの表示設定"
+
+#~ msgid "Weluka Social Button"
+#~ msgstr "Weluka ソーシャルボタン"
+
+#~ msgid "Please set the widget display at the title."
+#~ msgstr "ウィジェット表示時タイトルを設定してください。"
+
+#~ msgid "It will be outside the display object in the SNS URL not entered."
+#~ msgstr "SNS URL未入力で表示対象外となります。"
+
+#~ msgid "SNS Share button display settings."
+#~ msgstr "ソーシャルシェアボタンの表示設定"
+
+#~ msgid "Weluka Social Share Button"
+#~ msgstr "Weluka ソーシャルシェアボタン"
+
+#~ msgid "Please do not enter the beginning of the @ mark."
+#~ msgstr "先頭の@マークは入力しないでください。"
+
+#~ msgid ""
+#~ "Select a sample after clicking the \"Select\" button, builder sample data "
+#~ "is stored is reloaded."
+#~ msgstr ""
+#~ "サンプルを選択し「選択」ボタンをクリック後、サンプルデータが保存されビル"
+#~ "ダーがリロードされます。"
+
+#~ msgid ""
+#~ "It might audio player does not appear on the builder, but the data on, no "
+#~ "problem."
+#~ msgstr ""
+#~ "ビルダー上でaudio playerが表示されない場合がございますが、データ上、問題は"
+#~ "ありません。"
+
+#~ msgid "Audio Source"
+#~ msgstr "音源ソース"
+
+#~ msgid "Play Setting"
+#~ msgstr "再生設定"
+
+#~ msgid "Google Map Setting"
+#~ msgstr "Google Map設定"
+
+#~ msgid "Address"
+#~ msgstr "住所"
+
+#~ msgid ""
+#~ "This is the wording to be displayed in the balloon. \"Address\" will be "
+#~ "displayed if there is no setting."
+#~ msgstr "吹き出しに表示する文言です。設定なしの場合「住所」が表示されます。"
+
+#~ msgid "Latitude"
+#~ msgstr "緯度"
+
+#~ msgid "Longitude"
+#~ msgstr "経度"
+
+#~ msgid ""
+#~ "It does not take effect if you do not enter both the latitude and "
+#~ "longitude."
+#~ msgstr "緯度・経度を両方入力しないと有効になりません。"
+
+#~ msgid "Please enter until the \"%\" if you want to specify a percentage."
+#~ msgstr "％で指定したい場合は「%」まで入力してください。"
+
+#~ msgid "Please enter a width size to switch to Static Map."
+#~ msgstr "Static Mapに切り替える幅サイズを入力してください。"
+
+#~ msgid "To disable the scroll of the mouse."
+#~ msgstr "マウスでのスクロールを不可にする。"
+
+#~ msgid "Icon Setting"
+#~ msgstr "アイコン設定"
+
+#~ msgid "Icon Tags"
+#~ msgstr "アイコンタグ"
+
+#~ msgid "Please continue to enter the icon font size."
+#~ msgstr "アイコンフォントサイズを入力してくください。"
+
+#~ msgid "Icon Color"
+#~ msgstr "アイコン色"
+
+#~ msgid "Slide Setting"
+#~ msgstr "スライド設定"
+
+#~ msgid "Slideshow auto Start."
+#~ msgstr "スライドショー自動開始。"
+
+#~ msgid "Slideshow loop."
+#~ msgstr "スライドショー繰り返し再生。"
+
+#~ msgid "Slideshow Speed (msec)."
+#~ msgstr "スライドショー切替時間 (msec)"
+
+#~ msgid "Slide Navigation"
+#~ msgstr "スライドナビゲーション"
+
+#~ msgid "Show control navi."
+#~ msgstr "コントロールナビゲーション表示"
+
+#~ msgid "Show pagination navi."
+#~ msgstr "ページングナビゲーション表示"
+
+#~ msgid "Control Navi Color"
+#~ msgstr "コントロールナビゲーションカラー"
+
+#~ msgid "Pagination Navi Color"
+#~ msgstr "ページングナビゲーションカラー"
+
+#~ msgid "Slide Link Url"
+#~ msgstr "スライドリンクURL"
+
+#~ msgid "Display a description on a slide."
+#~ msgstr "スライド上に説明を表示する。"
+
+#~ msgid "Description Position"
+#~ msgstr "説明表示位置"
+
+#~ msgid "Description Background Color"
+#~ msgstr "説明背景色"
+
+#~ msgid "Description Text Color"
+#~ msgstr "説明テキスト色"
+
+#~ msgid "Description Container Padding (px)"
+#~ msgstr "説明コンテナー Padding (px)"
+
+#~ msgid "Description Container width"
+#~ msgstr "説明コンテナー幅"
+
+#~ msgid "Description Text Shadow"
+#~ msgstr "説明内 テキストシャドウ"
+
+#~ msgid "Social Button Setting"
+#~ msgstr "ソーシャルボタン設定"
+
+#~ msgid "Social Share Button Setting"
+#~ msgstr "ソーシャルシェアボタン設定"
+
+#~ msgid "Panel Setting"
+#~ msgstr "パネル設定"
+
+#~ msgid "Open panel initial."
+#~ msgstr "初期表示 パネルオープン"
+
+#~ msgid ""
+#~ "Display at the panel will be displayed in a state of being open page."
+#~ msgstr "ページ表示時 パネルがオープンされた状態で表示されます。"
+
+#~ msgid "Navi Type"
+#~ msgstr "ナビタイプ"
+
+#~ msgid "Navi Evenly."
+#~ msgstr "ナビ均等"
+
+#~ msgid "Navigation I evenly display."
+#~ msgstr "ナビを均等表示します。"
+
+#~ msgid "Panel Border."
+#~ msgstr "パネル枠線"
+
+#~ msgid "It encloses the panel border."
+#~ msgstr "パネルを枠線で囲みます。"
+
+#~ msgid ""
+#~ "Please remove the check next to the item name if you want to hide the "
+#~ "item."
+#~ msgstr ""
+#~ "アイテムを非表示にしたい場合はアイテム名横のチェックを外してください。"
+
+#~ msgid "Setting items If the media is image."
+#~ msgstr "メディアが画像の場合の設定項目"
+
+#~ msgid "Setting items If the media is icon."
+#~ msgstr "メディアがアイコンの場合の設定項目"
+
+#~ msgid ""
+#~ "This icon size settings take precedence over the individual icon size "
+#~ "settings."
+#~ msgstr "本アイコンサイズ設定が個別のアイコンサイズ設定より優先されます。"
+
+#~ msgid ""
+#~ "This icon color settings take precedence over the individual icon color "
+#~ "settings."
+#~ msgstr "本アイコンカラー設定が個別のアイコンカラー設定より優先されます。"
+
+#~ msgid "Meta1 Color"
+#~ msgstr "メタ１色"
+
+#~ msgid "Meta2 Color"
+#~ msgstr "メタ2色"
+
+#~ msgid ""
+#~ "Title, [except video] media, please enter or select the link URL that is "
+#~ "set to the button. Link selected in the image selection screen will be "
+#~ "priority in the case of image."
+#~ msgstr ""
+#~ "タイトル、メディア（動画除く）、ボタンに設定されるリンクURLを入力または選"
+#~ "択してください。画像の場合は画像選択画面で選択したリンクが優先されます。"
+
+#~ msgid "Please also enter the case of a non-display."
+#~ msgstr "非表示の場合も入力してください。"
+
+#~ msgid ""
+#~ "Please WELUKA licensed authentication. Enter the license key, <a href=\"%s"
+#~ "\">please click here.</a> <a href=\"%s\">Upgrade click here.</a>"
+#~ msgstr ""
+#~ "WELUKA ライセンス認証をしてください。<a href=\"%s\">ライセンスキーの入力は"
+#~ "こちら</a>  　<a href=\"%s\">[アップグレードはこちらから]</a>"
+
+#~ msgid "License key is incorrect.It can not be authenticated."
+#~ msgstr "ライセンスキーが間違っています。認証できません。"
+
+#~ msgid ""
+#~ "A fatal error occurred. Please contact weluka support.<br /><a href=\"%s"
+#~ "\" target=\"_blank\">Contact us from here.</a>"
+#~ msgstr ""
+#~ "致命的なエラーが発生しました。welukaサポートへご連絡ください。<br /><a "
+#~ "href=\"%s\" target=\"_blank\">お問い合わせはこちらから</a>"
+
+#~ msgid "This license is certified already."
+#~ msgstr "このライセンスは既に認証されています。"
+
+#~ msgid ""
+#~ "A license can't be certified because information necessary to license "
+#~ "authentication isn't designated.<br /><a href=\"%s\" target=\"_blank"
+#~ "\">Contact us from here.</a>"
+#~ msgstr ""
+#~ "ライセンス認証に必要な情報が指定されていない為、ライセンス認証できません。"
+#~ "<br /><a href=\"%s\" target=\"_blank\">お問い合わせはこちらから</a>"
+
+#~ msgid ""
+#~ "The number of upper limits which can be used is exceeded in a license."
+#~ "<br /><a href=\"%s\" target=\"_blank\">An additional purchase of a "
+#~ "license is this.</a>"
+#~ msgstr ""
+#~ "ライセンスで使用できる上限数を超えています。<br /><a href=\"%s\" target="
+#~ "\"_blank\">ライセンスの追加購入はこちら</a>"
+
+#~ msgid "This license isn't certified yet."
+#~ msgstr "このライセンスはまだ認証されてません。"
+
+#~ msgid "This site isn't certified yet."
+#~ msgstr "このサイトはまだ認証されてません。"
+
+#~ msgid "License key is incorrect."
+#~ msgstr "ライセンスキーが間違っています。"
+
+#~ msgid ""
+#~ "This function there is the case that link URL or the like to be added in "
+#~ "combination plug-in specifications and dynamically can not be converted."
+#~ msgstr ""
+#~ "本機能は併用プラグインの仕様や動的に追加されるリンクURL等は変換できない場"
+#~ "合がございます。"
+
+#~ msgid "http only omitted"
+#~ msgstr "http 省略のみ"
+
+#~ msgid ""
+#~ "Please set to [Enable] if Weluka using this function to replace the path, "
+#~ "such as css to a relative path.<br />Please select the [http omitted "
+#~ "only] if you replace only http  to omit system."
+#~ msgstr ""
+#~ "Weluka本機能を利用してcssなどのパスを相対パスに置き換える場合は[有効]にし"
+#~ "てください。httpのみ省略系に置き換える場合は[http 省略のみ]を選択してくだ"
+#~ "さい。"
+
+#~ msgid "http(s) only abbreviation"
+#~ msgstr "http(s) 省略のみ"
+
+#~ msgid ""
+#~ "Please set to [Enable] if Weluka using this function to replace the path, "
+#~ "such as css to a relative path.<br />Please select the [http (s) omitted "
+#~ "only] if you replace only http or https to omit system."
+#~ msgstr ""
+#~ "Weluka本機能を利用してcssなどのパスを相対パスに置き換える場合は[有効]にし"
+#~ "てください。http or httpsのみ省略系に置き換える場合は[http(s) 省略のみ]を"
+#~ "選択してください。"
+
+#~ msgid "Please select layout."
+#~ msgstr "sann"
+
+#~ msgid ""
+#~ "Please set to [Enable] if Weluka using this function to replace the path, "
+#~ "such as css to a relative path."
+#~ msgstr ""
+#~ "Weluka本機能を利用してcssなどのパスを相対パスに置き換える場合は[有効]にし"
+#~ "てください。"
+
+#~ msgid "Heading Fixexd"
+#~ msgstr "ヘッダー固定（fixed)"
+
+#~ msgid "Sidebar main place."
+#~ msgstr "メインサイドバー表示位置： "
+
+#~ msgid "Page bottom"
+#~ msgstr "ページ下部"
+
+#~ msgid ""
+#~ "Please WELUKA licensed authentication. Enter the license key, <a href=\"%s"
+#~ "\">please click here.</a>"
+#~ msgstr ""
+#~ "WELUKA ライセンス認証をしてください。<a href=\"%s\">ライセンスキーの入力は"
+#~ "こちら</a>"
+
+#~ msgid "More Link String"
+#~ msgstr "MOREリンクテキスト"
+
+#~ msgid ""
+#~ "Please copy and paste the embed tag, such as an external API.<br />After "
+#~ "setting save, please re-display after saving if you do not appear."
+#~ msgstr ""
+#~ "外部API等の埋め込みタグを貼り付けてください。<br />設定保存後、表示されな"
+#~ "い場合は保存後再表示してください。"
+
+#~ msgid ""
+#~ "If you want to save the color information that has been set, enter the "
+#~ "color name, please click on the [color save] button."
+#~ msgstr ""
+#~ "設定したカラー情報を保存したい場合、カラー名を入力し、[カラー保存]ボタンを"
+#~ "クリックしてください。"
+
+#~ msgid ""
+#~ "If you want to save the color information that has been set, enter the "
+#~ "color name, please click on the color save."
+#~ msgstr ""
+#~ "設定したカラー情報を保存したい場合、カラー名を入力し、カラー保存をクリック"
+#~ "してください。"
+
+#~ msgid "option registory error!（%s)"
+#~ msgstr "オプション登録エラー！（%s）"
+
+#~ msgid "list data registory error!（%s)"
+#~ msgstr "リストデータ登録エラー（%s)"
+
+#~ msgid "list data remove error!（%s)"
+#~ msgstr "リストデータ削除エラー（%s)"
+
+#~ msgid "custom design registory error!（%s)"
+#~ msgstr "カスタムデザイン登録エラー（%s)"
+
+#~ msgid "custom design remove error!（%s)"
+#~ msgstr "カスタムデザイン削除エラー（%s)"
+
+#~ msgid ""
+#~ "Primary button, the background color of the mouse hover time of the panel "
+#~ "or the like, border color, text color."
+#~ msgstr ""
+#~ "Primary ボタン、パネル等のマウスホバー時の背景色、ボーダー色、テキスト色で"
+#~ "す。"
+
+#~ msgid "Tab Bgcolor"
+#~ msgstr "タブ背景色"
+
+#~ msgid "Post Number(Home blog style) : "
+#~ msgstr "表示件数（Homeブログスタイル時）"
+
+#~ msgid "Post Number(Archive) : "
+#~ msgstr "表示件数（アーカイブ）"
+
+#~ msgid "Vertical Line"
+#~ msgstr "横線"
+
+#~ msgid ""
+#~ "If the layout is 2 column, or please select the 3columns on the left side "
+#~ "bar."
+#~ msgstr ""
+#~ "レイアウトが2カラムの場合、もしくは3カラムの左サイドバーを選択してくださ"
+#~ "い。"
+
+#~ msgid "Use Page Header?"
+#~ msgstr "使用ページヘッダー"
+
+#~ msgid "If you want to default header, please check."
+#~ msgstr "デフォルトヘッダーにしたい場合、チェックしてください。"
+
+#~ msgid ""
+#~ "The latest update date and time will be displayed as the default header. "
+#~ "The is not a public site the public will not be reflected."
+#~ msgstr ""
+#~ "最新更新日時のものがデフォルトヘッダーとして表示されます。公開をしないと公"
+#~ "開サイトには反映されません。"
+
+#~ msgid "If you want to default footer, please check."
+#~ msgstr "デフォルトフッターにしたい場合、チェックしてください。"
+
+#~ msgid ""
+#~ "The latest update date and time will be displayed as the default footer. "
+#~ "The is not a public site the public will not be reflected."
+#~ msgstr ""
+#~ "最新更新日時のものがデフォルトフッターとして表示されます。公開をしないと公"
+#~ "開サイトには反映されません。"
+
+#~ msgid "If you want to default sidebar, please check."
+#~ msgstr "デフォルトサイドバーにしたい場合、チェックしてください。"
+
+#~ msgid ""
+#~ "The latest update date and time will be displayed as the default sidebar. "
+#~ "The is not a public site the public will not be reflected."
+#~ msgstr ""
+#~ "最新更新日時のものがデフォルトサイドバーとして表示されます。公開をしないと"
+#~ "公開サイトには反映されません。"
+
+#~ msgid ""
+#~ "Please be content menu to select if you want to display a fixed-width in "
+#~ "the case where the content container width in the section in the case "
+#~ "where the horizontal menu layout eliminates line t is set to full width. "
+#~ "If the content container width is set in the theme, it will according to "
+#~ "the theme."
+#~ msgstr ""
+#~ "メニューレイアウト横を線tなくした場合でセクションでコンテンツコンテナー幅"
+#~ "をフル幅に設定している場合にメニューコンテンツは固定幅で表示したい場合は選"
+#~ "択してください。テーマ内でコンテンツコンテナー幅が設定されている場合、テー"
+#~ "マに準じます。"
+
+#~ msgid "Comment block : "
+#~ msgstr "記事ページにコメントブロックを表示？"
+
+#~ msgid "Hide post title in this page."
+#~ msgstr "本ページではページタイトルを非表示にする。"
+
+#~ msgid ""
+#~ "If you change the page layout settings, please re-load it to save time."
+#~ msgstr ""
+#~ "ページレイアウトセッティングを変更した場合、一度保存し再ロードしてくださ"
+#~ "い。"
+
+#~ msgid "Hide meta to post category : "
+#~ msgstr "メタ情報をすべて非表示にしたいカテゴリー"
+
+#~ msgid "It makes the page layout to the one-page format."
+#~ msgstr "ページレイアウトをペラページ形式にする。"
+
+#~ msgid "Hide the page header."
+#~ msgstr "本ページではページヘッダーを非表示にする。"
+
+#~ msgid "We Want a page layout to the one-page format."
+#~ msgstr "ページレイアウトをペラページ形式にしたいする。"
+
+#~ msgid " Custom Footers"
+#~ msgstr "カスタムフッター"
+
+#~ msgid " Custom Footer"
+#~ msgstr "カスタムフッター"
+
+#~ msgid " Custom Footer Add"
+#~ msgstr "カスタムフッター追加"
+
+#~ msgid " Custom Footer Edit"
+#~ msgstr "カスタムフッター編集"
+
+#~ msgid " Custom Headers"
+#~ msgstr "カスタムヘッダー"
+
+#~ msgid " Custom Header"
+#~ msgstr "カスタムヘッダー"
+
+#~ msgid " Custom Header Add"
+#~ msgstr "カスタムヘッダー追加"
+
+#~ msgid " Custom Header Edit"
+#~ msgstr "カスタムヘッダー編集"
+
+#~ msgid ""
+#~ "If the content container in the theme has been set width, it will "
+#~ "according to the theme."
+#~ msgstr ""
+#~ "テーマ内でコンテンツコンテナーが幅が設定されている場合、テーマに準じます。"
+
+#~ msgid ""
+#~ "If weluka not the official theme, according to the container style of an "
+#~ "existing theme."
+#~ msgstr ""
+#~ "Weluka公式テーマでない場合、既存テーマのコンテナースタイルに準じます。"
+
+#~ msgid ""
+#~ "It will be the content container to the variable. The default is a fixed "
+#~ "length."
+#~ msgstr "コンテンツコンテナーを可変にする。デフォルトは固定長です。"
+
+#~ msgid ""
+#~ "If weluka not the official theme, according to the existing theme of "
+#~ "container."
+#~ msgstr ""
+#~ "weluka公式テーマでない場合、既存テーマのコンテナースタイルに準じます。"
+
+#~ msgid ""
+#~ "Please licensed authentication. Enter the license key, <a href=\"%s"
+#~ "\">please click here.</a>"
+#~ msgstr ""
+#~ "ライセンス認証してください。<a href=\"%s\">ライセンスキーの入力はこちら</"
+#~ "a>からどうぞ。"
+
+#~ msgid "You want to display all the contents rather than the excerpt."
+#~ msgstr "抜粋ではなく内容をすべて表示する。"
+
+#~ msgid "Color Theme"
+#~ msgstr "カラーテーマ"
+
+#~ msgid "Gallery"
+#~ msgstr "ギャラリー"
+
+#~ msgid "Image Left"
+#~ msgstr "左寄せ"
+
+#~ msgid "Image Center"
+#~ msgstr "中央寄せ"
+
+#~ msgid "Image Right"
+#~ msgstr "右寄せ"
+
+#~ msgid "thumbnail"
+#~ msgstr "サムネイル"
+
+#~ msgid ""
+#~ "You can design an item set in the item name click. Please remove the "
+#~ "check next to the item name if you want to hide."
+#~ msgstr ""
+#~ "アイテム名クリックでアイテムデザイン設定を行えます。非表示にしたい場合はア"
+#~ "イテム名横のチェックを外してください。"
+
+#~ msgid "Font has not been set."
+#~ msgstr "フォントは設定されてません。"
+
+#~ msgid "Movie URL"
+#~ msgstr "動画URL"
+
+#~ msgid "Repeat to play."
+#~ msgstr "繰り返し再生"
+
+#~ msgid "Tabs"
+#~ msgstr "タブパネル"
+
+#~ msgid "Accordion"
+#~ msgstr "開閉式パネル"
+
+#~ msgid ""
+#~ "Please copy and paste the embed tag, such as an external API.<br />Please "
+#~ "re-display after saving if you do not appear."
+#~ msgstr ""
+#~ "外部API等の埋め込みタグを貼り付けてください。<b r />sextutei 表示されない"
+#~ "場合は保存後再表示してください。"
+
+#~ msgid "Please enter your image."
+#~ msgstr "画像を選択してください。"
+
+#~ msgid "Please input a content."
+#~ msgstr "内容を入力してください。"
+
+#~ msgid "To enable the panel header."
+#~ msgstr "パネルヘッダーを有効"
+
+#~ msgid "Are you sure you want to leave this page?"
+#~ msgstr "このページを離れてよろしいですか？"
+
+#~ msgid "test plugin"
+#~ msgstr "テストプラグイン"
